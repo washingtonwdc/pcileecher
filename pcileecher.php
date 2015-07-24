@@ -24,7 +24,7 @@ if (isset($_SERVER["SERVER_SOFTWARE"])) {
 //}}}
 //configuracoes {{{
 define('VERSAO', '0.5');
-define('URL_PCI', "http://www.pciconcursos.com.br");
+define('URL_PCI', "https://www.pciconcursos.com.br");
 define('URL_PROVAS_PCI', URL_PCI."/provas");
 //}}}
 //dados {{
@@ -33,7 +33,7 @@ print("PCILeecher - v. ".VERSAO." - by Hugo Tacito - hugotacito@gmail.com\n");
 print("Participe da TI-Masters: timasters@yahoogroups.com\n");
 print("Entre com os dados da pesquisa...\n");
 print("Busca: ");
-$busca = readcmd();
+$busca = lerEntrada();
 if(!file_exists($busca))
 	mkdir($busca);
 //}}}
@@ -69,7 +69,7 @@ while(true)
 print("Pronto!\n");
 print("-- Rip them all down.\n");
 ?>
-<?
+<?php
 //mecanismo que efetivamente salva as provas
 function salvarProvasDaPagina($listaDeProvas) 
 {
@@ -177,7 +177,7 @@ function obterDadosDeUrl($url, $ctx = null)
 }
 
 //From: http://php.net/manual/en/function.fopen.php
-function readcmd($length='255')
+function lerEntrada($length='255')
 {
     if (!isset($GLOBALS['StdinPointer']))
 	{
