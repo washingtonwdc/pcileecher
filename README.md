@@ -3,6 +3,7 @@
 Script para download automático de provas e gabaritos organizados por banca e cargo.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/github/followers/washingtonwdc?label=follow&style=social)](https://github.com/washingtonwdc)
 
 ## Instalação
 
@@ -47,6 +48,14 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Sinta-se à vontade para contribuir! [Abra uma issue](https://github.com/washingtonwdc/pcileecher/issues) ou envie um Pull Request.
 
+## Como Contribuir
+
+1. Faça um Fork do projeto
+2. Crie uma Branch para sua Feature (`git checkout -b feature/AmazingFeature`)
+3. Faça o Commit de suas mudanças (`git commit -m 'Add some AmazingFeature'`)
+4. Faça o Push para a Branch (`git push origin feature/AmazingFeature`)
+5. Abra um Pull Request
+
 ## Créditos
 
 Este projeto é baseado no trabalho original de [Hugo Tacito](https://github.com/hugotacito/pcileecher).
@@ -54,5 +63,6 @@ Este projeto é baseado no trabalho original de [Hugo Tacito](https://github.com
 ## Autor
 
 **Washington Dias da Costa**
-- GitHub: [@washingtonwdc](https://github.com/washingtonwdc)
-- Repositório: [pcileecher](https://github.com/washingtonwdc/pcileecher)
+- 🌐 GitHub: [@washingtonwdc](https://github.com/washingtonwdc)
+- 📚 Repositório: [pcileecher](https://github.com/washingtonwdc/pcileecher)
+- 📧 Email: [Entre em contato](https://github.com/washingtonwdc)
