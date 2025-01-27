@@ -1,0 +1,14 @@
+=== Informações do Concurso ===
+
+Órgão: Poder Judiciário/AC
+Banca: IVIN
+Ano: 2024
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Analista Judiciário - Direito (Área Administrativa)
+- [prova] Analista Judiciário - Analista de Infraestrutura de TI
+- [prova] Analista Judiciário - Analista de Monitoramento de TI
+- [prova] Analista Judiciário - Analista de Negócios de TI
+- [prova] Analista Judiciário - Analista de Projetos de TI

@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: IFTO
+Banca: IFTO
+Ano: 2022
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Técnico de Laboratório de TI - Área Informática

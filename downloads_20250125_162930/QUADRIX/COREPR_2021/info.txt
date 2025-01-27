@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: CORE/PR
+Banca: QUADRIX
+Ano: 2021
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Analista TI

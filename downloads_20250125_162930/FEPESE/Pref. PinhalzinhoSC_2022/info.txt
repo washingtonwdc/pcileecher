@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: Pref. Pinhalzinho/SC
+Banca: FEPESE
+Ano: 2022
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Técnico em Informática - TI

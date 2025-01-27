@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: CRECI/MS
+Banca: MSCONCURSOS
+Ano: 2018
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Analista de TI

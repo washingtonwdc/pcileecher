@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: DPE/RS
+Banca: FGV
+Ano: 2023
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Técnico - Apoio Especializado - Suporte de TI

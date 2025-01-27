@@ -1,0 +1,11 @@
+=== Informações do Concurso ===
+
+Órgão: Pref. Carlos Chagas/MG
+Banca: FUNDEP
+Ano: 2024
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Agente Técnico Administrativo (Técnico em Contabilidade)
+- [prova] Analista de Tecnologia da Informação (Tecnólogo de Informática)

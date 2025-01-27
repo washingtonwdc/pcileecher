@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: CREA-BA
+Banca: IDCAP
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Analista de Sistemas (Informática)

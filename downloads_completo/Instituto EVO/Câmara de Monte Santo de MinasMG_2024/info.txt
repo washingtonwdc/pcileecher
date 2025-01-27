@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: Câmara de Monte Santo de Minas/MG
+Banca: Instituto EVO
+Ano: 2024
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Administrador de Redes - Técnico em Informática

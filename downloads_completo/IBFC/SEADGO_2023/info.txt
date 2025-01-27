@@ -1,0 +1,14 @@
+=== Informações do Concurso ===
+
+Órgão: SEAD/GO
+Banca: IBFC
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Analista Ambiental - Direito
+- [prova] Analista Ambiental - Medicina Veterinária
+- [prova] Analista Ambiental - Engenharia Florestal
+- [prova] Analista Ambiental - Engenharia Química
+- [prova] Analista Ambiental - Engenharia-Ambiental Sanitária

@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: UERGS
+Banca: FUNDATEC
+Ano: 2024
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Agente Técnico - Técnico em Informática

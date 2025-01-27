@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: Pref. Coronel Bicaco/RS
+Banca: FUNDATEC
+Ano: 2024
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Assistente em Informática

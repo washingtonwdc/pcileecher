@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: Pref. Balneário Camboriú/SC
+Banca: FEPESE
+Ano: 2012
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Assistente de TI

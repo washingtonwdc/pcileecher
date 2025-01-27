@@ -1,0 +1,11 @@
+=== Informações do Concurso ===
+
+Órgão: Pref. e Câmara de Augusto Pestana/RS
+Banca: FUNDATEC
+Ano: 2024
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Professor Anos Finais do Ensino Fundamental - Matemática
+- [prova] Professor Anos Finais do Ensino Fundamental - Português

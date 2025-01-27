@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: Pref. Ouro Preto do Oeste/RO
+Banca: IBADE
+Ano: 2024
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Técnico em Informática - TI

@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: FME - Pref. Niterói/RJ
+Banca: UFF/COSEAC
+Ano: 2024
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Agente de Administração Educacional

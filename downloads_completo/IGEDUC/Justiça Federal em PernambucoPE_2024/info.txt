@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: Justiça Federal em Pernambuco/PE
+Banca: IGEDUC
+Ano: 2024
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Estágio em ComputaçãoTIDesenvolvimento

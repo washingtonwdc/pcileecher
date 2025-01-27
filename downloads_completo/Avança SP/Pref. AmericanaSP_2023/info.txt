@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: Pref. Americana/SP
+Banca: Avança SP
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Analista de Administração de Dados

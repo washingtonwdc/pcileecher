@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: Pref., Câmara e Instituto de Previdência de Balneário Barra do Sul/SC
+Banca: FUNDATEC
+Ano: 2024
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Analista de Informática

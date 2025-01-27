@@ -1,0 +1,12 @@
+=== Informações do Concurso ===
+
+Órgão: PROCERGS
+Banca: FUNDATEC
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] ANC - Analista em Computaçãoênfase em Análise de SistemasGerência de Projetos de TI
+- [prova] ANC - Analista em Computaçãoênfase em Negócios de Produtos e Serviços de TI
+- [prova] TI - Técnico em Informática

@@ -1,0 +1,11 @@
+=== Informações do Concurso ===
+
+Órgão: SED/SC
+Banca: FURB
+Ano: 2024
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Professor - Matemática
+- [prova] Professor - Língua Portuguesa e LiteraturaPortuguês

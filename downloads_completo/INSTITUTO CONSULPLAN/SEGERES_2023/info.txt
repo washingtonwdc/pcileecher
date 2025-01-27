@@ -1,0 +1,16 @@
+=== Informações do Concurso ===
+
+Órgão: SEGER/ES
+Banca: INSTITUTO CONSULPLAN
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Analista do Executivo - Administração
+- [prova] Analista do Executivo - Direito
+- [prova] Analista do Executivo - Engenharia Agronômica
+- [prova] Analista do Executivo - Engenharia Ambiental
+- [prova] Analista do Executivo - Engenharia Civil
+- [prova] Analista do Executivo - Engenharia Elétrica
+- [prova] Analista do Executivo - Engenharia Mecânica

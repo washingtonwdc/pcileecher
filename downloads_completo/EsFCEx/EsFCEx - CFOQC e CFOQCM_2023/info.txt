@@ -1,0 +1,12 @@
+=== Informações do Concurso ===
+
+Órgão: EsFCEx - CFO/QC e CFO/QCM
+Banca: EsFCEx
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Curso de Formação de Oficiais do Quadro Complementar - Direito
+- [prova] Curso de Formação de Oficiais do Quadro Complementar - Magistério em Matemática
+- [prova] Curso de Formação de Oficiais do Quadro Complementar - Magistério em Português

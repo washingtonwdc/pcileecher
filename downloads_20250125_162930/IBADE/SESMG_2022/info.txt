@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: SES/MG
+Banca: IBADE
+Ano: 2022
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Área de TI

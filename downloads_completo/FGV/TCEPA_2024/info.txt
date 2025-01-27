@@ -1,0 +1,15 @@
+=== Informações do Concurso ===
+
+Órgão: TCE/PA
+Banca: FGV
+Ano: 2024
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Auditor de Controle Externo - Administrativa - Direito
+- [prova] Auditor de Controle Externo - Fiscalização - Direito
+- [prova] Auditor de Controle Externo - Administrativa - Contabilidade
+- [prova] Auditor de Controle Externo - Fiscalização - Contabilidade
+- [prova] Auditor de Controle Externo - Planejamento - Economia
+- [prova] Auditor de Controle Externo - Administrativa - Enfermagem

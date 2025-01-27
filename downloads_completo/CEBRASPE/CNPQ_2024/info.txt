@@ -1,0 +1,11 @@
+=== Informações do Concurso ===
+
+Órgão: CNPQ
+Banca: CEBRASPE
+Ano: 2024
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Analista em Ciência e Tecnologia Pleno I - Especialidade Administração de Pessoal
+- [prova] Analista em Ciência e Tecnologia Pleno I - Especialidade Administração e Recursos Logísticos

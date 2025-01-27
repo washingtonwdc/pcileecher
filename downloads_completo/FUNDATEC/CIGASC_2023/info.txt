@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: CIGA/SC
+Banca: FUNDATEC
+Ano: 2023
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Técnico em TI

@@ -1,0 +1,18 @@
+.env
+*.log
+__pycache__/
+
+# Pasta de downloads
+arquivos_baixados/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+
+# CSV com links
+links.csv

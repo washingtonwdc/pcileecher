@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: Pref. Araquari/SC
+Banca: UNIOESTE
+Ano: 2024
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Administração Geral, Técnico em Informática

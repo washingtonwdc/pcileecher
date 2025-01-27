@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: GHC
+Banca: FUNDATEC
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Médico - Medicina de Emergência - UPA

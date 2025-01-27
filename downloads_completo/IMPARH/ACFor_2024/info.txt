@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: ACFor
+Banca: IMPARH
+Ano: 2024
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Analista de Regulação - Administração

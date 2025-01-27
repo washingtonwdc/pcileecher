@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: CONSPNOR
+Banca: IDESG
+Ano: 2024
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Assistente de TI

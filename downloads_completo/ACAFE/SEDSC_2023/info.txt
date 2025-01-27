@@ -1,0 +1,11 @@
+=== Informações do Concurso ===
+
+Órgão: SED/SC
+Banca: ACAFE
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Professor - Matemática
+- [prova] Professor - Matemática e Ciências da Natureza

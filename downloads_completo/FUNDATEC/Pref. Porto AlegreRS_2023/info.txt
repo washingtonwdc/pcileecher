@@ -1,0 +1,14 @@
+=== Informações do Concurso ===
+
+Órgão: Pref. Porto Alegre/RS
+Banca: FUNDATEC
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Administração
+- [prova] Direito - Ciências Jurídicas
+- [prova] Contabilidade
+- [prova] Economia
+- [prova] PRTS - Economia

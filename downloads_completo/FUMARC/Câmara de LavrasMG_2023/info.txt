@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: Câmara de Lavras/MG
+Banca: FUMARC
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Assistente LegislativoDireito

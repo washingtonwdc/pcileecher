@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: SAEE - Aparo/SP
+Banca: AVANÇA SP
+Ano: 2023
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Técnico Suporte em TI

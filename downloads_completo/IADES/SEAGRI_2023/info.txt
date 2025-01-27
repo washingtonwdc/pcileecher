@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: SEAGRI
+Banca: IADES
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Direito e Legislação

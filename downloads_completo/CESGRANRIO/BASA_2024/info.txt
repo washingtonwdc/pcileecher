@@ -1,0 +1,10 @@
+=== Informações do Concurso ===
+
+Órgão: BASA
+Banca: CESGRANRIO
+Ano: 2024
+Nível: Médio
+
+=== Arquivos ===
+
+- [prova] Técnico Científico - TI

@@ -1,0 +1,18 @@
+=== Informações do Concurso ===
+
+Órgão: IFFAR
+Banca: FUNDATEC
+Ano: 2023
+Nível: Superior
+
+=== Arquivos ===
+
+- [prova] Administração - Administração Geral
+- [prova] Administração - Produção e Logística
+- [prova] Medicina Veterinária - Anestesiologia Veterinária
+- [prova] Medicina Veterinária - Clínica e Cirurgia de Grandes Animais
+- [prova] Medicina Veterinária - Inspeção e Tecnologia de Alimentos de Origem Animal
+- [prova] Agronomia - Engenharia Agrícola
+- [prova] Matemática
+- [prova] Matemática - Educação
+- [prova] Letras - Português e Inglês
