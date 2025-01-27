@@ -4,6 +4,8 @@ Script para download automático de provas e gabaritos organizados por banca e c
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub](https://img.shields.io/github/followers/washingtonwdc?label=follow&style=social)](https://github.com/washingtonwdc)
+[![GitHub stars](https://img.shields.io/github/stars/washingtonwdc/pcileecher?style=social)](https://github.com/washingtonwdc/pcileecher/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/washingtonwdc/pcileecher?style=social)](https://github.com/washingtonwdc/pcileecher/network/members)
 
 ## Instalação
 
