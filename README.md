@@ -2,6 +2,16 @@
 
 Script para download automático de provas e gabaritos organizados por banca e cargo.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Instalação
+
+```bash
+git clone https://github.com/washingtonwdc/pcileecher.git
+cd pcileecher
+pip install -r requirements.txt
+```
+
 ## Funcionalidades
 
 - Download automático de arquivos a partir de CSV
@@ -28,3 +38,15 @@ arquivos_baixados/
        └── [CARGO]/
             └── arquivo.pdf
 ```
+
+## Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Créditos
+
+Este projeto é baseado no trabalho original de [Hugo Tacito](https://github.com/hugotacito/pcileecher).
+
+## Autor
+
+Washington Dias da Costa - [GitHub](https://github.com/washingtonwdc)
