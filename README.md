@@ -33,15 +33,6 @@ pip install -r requirements.txt
 python baixar.py
 ```
 
-## Estrutura
-Os arquivos serão salvos em:
-```
-arquivos_baixados/
-  └── [BANCA]/
-       └── [CARGO]/
-            └── arquivo.pdf
-```
-
 ## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
