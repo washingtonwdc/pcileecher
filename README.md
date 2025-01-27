@@ -43,10 +43,16 @@ arquivos_baixados/
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+## Contribuições
+
+Sinta-se à vontade para contribuir! [Abra uma issue](https://github.com/washingtonwdc/pcileecher/issues) ou envie um Pull Request.
+
 ## Créditos
 
 Este projeto é baseado no trabalho original de [Hugo Tacito](https://github.com/hugotacito/pcileecher).
 
 ## Autor
 
-Washington Dias da Costa - [GitHub](https://github.com/washingtonwdc)
+**Washington Dias da Costa**
+- GitHub: [@washingtonwdc](https://github.com/washingtonwdc)
+- Repositório: [pcileecher](https://github.com/washingtonwdc/pcileecher)
