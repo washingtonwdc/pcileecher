@@ -65,4 +65,4 @@ Este projeto é baseado no trabalho original de [Hugo Tacito](https://github.com
 **Washington Dias da Costa**
 - 🌐 GitHub: [@washingtonwdc](https://github.com/washingtonwdc)
 - 📚 Repositório: [pcileecher](https://github.com/washingtonwdc/pcileecher)
-- 📧 Email: [Entre em contato](https://github.com/washingtonwdc)
+- 📧 Email: [washingtonwdc@gmail.com](mailto:washingtonwdc@gmail.com)
