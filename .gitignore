@@ -4,15 +4,25 @@ __pycache__/
 
 # Pasta de downloads
 arquivos_baixados/
+downloads/
 
 # Arquivos Python
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache/
 
 # Ambiente virtual
 venv/
 env/
+.env
 
-# CSV com links
-links.csv
+# Arquivos de dados
+*.csv
+*.pdf
+*.doc
+*.docx
+
+# Logs e caches
+*.log
+.DS_Store
