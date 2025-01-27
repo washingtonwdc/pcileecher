@@ -5,6 +5,9 @@ __pycache__/
 # Pasta de downloads
 arquivos_baixados/
 downloads/
+downloads_*
+downloads_completo/
+qconcursos/
 
 # Arquivos Python
 __pycache__/
