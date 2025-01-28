@@ -1,0 +1,958 @@
+[
+  {
+    "_id": "EXAM1",
+    "data_criacao": "2025-01-28",
+    "estatisticas": {
+      "total_respostas": 0,
+      "acertos": "Não disponível",
+      "tempo_medio": "Não disponível"
+    },
+    "area": "Concursos",
+    "categoria": "Concurso Público",
+    "nivel": "Superior",
+    "questoes": [],
+    "quantidade_de_respostas": [
+      0
+    ],
+    "tags": [
+      "Concursos",
+      "",
+      "Concursos"
+    ]
+  },
+  {
+    "_id": "EXAM2",
+    "data_criacao": "2025-01-28",
+    "estatisticas": {
+      "total_respostas": 0,
+      "acertos": "Não disponível",
+      "tempo_medio": "Não disponível"
+    },
+    "descricao": "Concurso Público 2016",
+    "banca": "FGV",
+    "ano": "2016",
+    "area": "Concursos",
+    "categoria": "Concurso Público",
+    "nivel": "Superior",
+    "questoes": [
+      {
+        "numero_questao": "1",
+        "texto": "Mais de 80 milhões vivem fora de sua cidade natal",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "2",
+        "texto": "O número de pessoas desocupadas",
+        "alternativas": [],
+        "disciplina": "Matemática",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "3",
+        "texto": "O número de pessoas desocupadas aumentou 9,3%",
+        "alternativas": [],
+        "disciplina": "Matemática",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "4",
+        "texto": "Trabalho infantil volta a subir",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "5",
+        "texto": "Outro reflexo dessa expansão é a redução de telefones fixos em casa.",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "6",
+        "texto": "Água e luz avançam, saneamento deixa a desejar",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "7",
+        "texto": "154, na fatia de maiores ganhos, em",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "8",
+        "texto": "O valor recebido pelo primeiro grupo representa apenas 1,4%",
+        "alternativas": [],
+        "disciplina": "Direito Penal",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "9",
+        "texto": "O domínio das caatingas abrange cerca de 10% do território",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "10",
+        "texto": "O gráfico 2, elaborado a partir dos dados da Pesquisa Mensal de",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "11",
+        "texto": "617, que tornou os limites marítimos brasileiros coincidentes",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "12",
+        "texto": "033 311.992 9,8 14,02",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "13",
+        "texto": "108.691 1.942.001 8,4 12,65",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "14",
+        "texto": "064 201.023 11,7 15,51",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "15",
+        "texto": "654.662 2.926.216 9,5 14,18",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "16",
+        "texto": "066.500 gaúchos residindo em outros estados",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "17",
+        "texto": "Relevância, imparcialidade e igualdade de acesso",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "18",
+        "texto": "Prevenção do mau uso dos dados",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "19",
+        "texto": "Logo na décima parcela, exigível em 17/05/2014, João se tornou",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "20",
+        "texto": "Nesse cenário, instado, o oficial do Registro de Imóveis deverá",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "21",
+        "texto": "514/1997, o juiz deverá reconhecer que a instituição financeira",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "22",
+        "texto": "Havia sido um homem muito rico e teria deixado",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "23",
+        "texto": "Tudo conforme a lei determina.",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "24",
+        "texto": "344/2022, é correto afirmar",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "25",
+        "texto": "069/1990, é correto afirmar",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "26",
+        "texto": "343/2006 é contravenção penal e não gera reincidência.",
+        "alternativas": [],
+        "disciplina": "Direito Penal",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "27",
+        "texto": "869/2019, é correto afirmar que:",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "28",
+        "texto": "850/2013), é correto afirmar que:",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "29",
+        "texto": "850/2013). O juiz recebeu a denúncia e determinou a",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "30",
+        "texto": "Sobre o instituto, é correto afirmar que:",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "31",
+        "texto": "será criado um regime próprio de previdência",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "32",
+        "texto": "é vedada a contagem de tempo de",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "33",
+        "texto": "para os servidores ocupantes",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "34",
+        "texto": "À luz da legislação pátria e da jurisprudência atualizada, é correto",
+        "alternativas": [],
+        "disciplina": "Direito Processual",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "35",
+        "texto": "112/2020 introduziu na Lei nº 11.101/2005 um",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "36",
+        "texto": "105/2015) contém disposições sobre a força probante dos",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "37",
+        "texto": "492/1997 (Lei de Protestos), é correto afirmar que revogada a",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "38",
+        "texto": "320/1964 estatui as normas gerais de",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "39",
+        "texto": "À luz da Lei nº 4.320/1964, mas interpretada sob a nova",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "40",
+        "texto": "651/2012, o intento de Maria é:",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "41",
+        "texto": "Inconformado, João aforou ação judicial visando a garantir seu",
+        "alternativas": [],
+        "disciplina": "Direito Processual",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "42",
+        "texto": "133/2021), será firmado entre o Tribunal de",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "43",
+        "texto": "230/2021, o juízo competente:",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "44",
+        "texto": "230/2021 deve ser proposta exclusivamente pelo",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "45",
+        "texto": "2026 alguns indicadores de desempenho.",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      }
+    ],
+    "quantidade_de_respostas": [
+      45
+    ],
+    "tags": [
+      "Concursos",
+      "FGV",
+      "Concursos"
+    ]
+  },
+  {
+    "_id": "EXAM3",
+    "data_criacao": "2025-01-28",
+    "estatisticas": {
+      "total_respostas": 0,
+      "acertos": "Não disponível",
+      "tempo_medio": "Não disponível"
+    },
+    "descricao": "CONCURSO PÚBLICO – 01/2022 – EBSERH/HU-UNIFAP – EDITAL Nº 3",
+    "ano": "2022",
+    "area": "Concursos",
+    "categoria": "Concurso Público",
+    "nivel": "Superior",
+    "questoes": [
+      {
+        "numero_questao": "1",
+        "texto": "O adjunto adverbial “relativamente” (2º§) reposiciona",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "2",
+        "texto": "Para saber a preferência entre a utilização de dois",
+        "alternativas": [],
+        "disciplina": "Direito Processual",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "3",
+        "texto": "Marcos esqueceu sua senha de cartão de crédito",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "4",
+        "texto": "Quando uma página na Internet está desatualizada,",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "5",
+        "texto": "“O chamado _______________, período de grande",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "6",
+        "texto": "709/2018, traz alguns conceitos importantes.",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "7",
+        "texto": "Os agentes de tratamento de dados, em razão das",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "8",
+        "texto": "000.000,00 (cinquenta",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "9",
+        "texto": "No que se refere às disposições sobre planejamento",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "10",
+        "texto": "550/2011 autorizou o Poder",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "11",
+        "texto": "No que se refere aos Órgãos Sociais e",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "12",
+        "texto": "No que se refere às unidades internas de governança",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "13",
+        "texto": "Sobre a montagem da sala de operações, analise as",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "14",
+        "texto": "Sobre a coleta de escarro, analise as afirmativas",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "15",
+        "texto": "Sobre pneumotórax simples, analise as afirmativas",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "16",
+        "texto": "Sobre vítimas de queimaduras, analise as afirmativas",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "17",
+        "texto": "Na Norma Regulamentadora NR-17, sobre",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "18",
+        "texto": "Sobre o trabalhador que realiza atividades em áreas",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "19",
+        "texto": "Sobre a vacina poliomielite 1, 2 e 3 (inativada) – VIP,",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "20",
+        "texto": "Sobre a vacina sarampo, caxumba e rubéola",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "21",
+        "texto": "Sobre a vacina pneumocócica 23-valente",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "22",
+        "texto": "Sobre as vantagens da amamentação para a criança,",
+        "alternativas": [],
+        "disciplina": "Direito Processual",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "23",
+        "texto": "Sobre os imunobiológicos do calendário nacional de",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "24",
+        "texto": "Sobre a gestação múltipla, analise as afirmativas",
+        "alternativas": [],
+        "disciplina": "Direito Processual",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "25",
+        "texto": "_________________ caracteriza-se por perda da",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "26",
+        "texto": "Sobre o Sistema Único de Saúde (SUS), analise as",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "27",
+        "texto": "Sobre a quimioprofilaxia da doença meningocócica,",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "28",
+        "texto": "Sobre a doença Sarampo, analise as afirmativas",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "29",
+        "texto": "Sobre o tétano acidental, analise as afirmativas",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "30",
+        "texto": "Você recebeu do fiscal um cartão de respostas da",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "31",
+        "texto": "É sua responsabilidade verificar se o nome do cargo",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "32",
+        "texto": "Você dispõe de 4 (quatro) horas para realizar a prova,",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "33",
+        "texto": "Somente depois de decorrida uma hora do início da prova,",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "34",
+        "texto": "Por questão de segurança do presente",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "35",
+        "texto": "Será terminantemente vedado ao candidato copiar suas",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "36",
+        "texto": "Os três últimos candidatos deverão permanecer na sala",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "37",
+        "texto": "Se você precisar de algum esclarecimento, consulte o",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "38",
+        "texto": "Só será permitido ao candidato utilizar caneta esferográfica,",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "39",
+        "texto": "Verifique, neste caderno de questões, se a numeração",
+        "alternativas": [],
+        "disciplina": "Direito Processual",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "40",
+        "texto": "Verifique, no cartão de respostas, se existem espaços",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "41",
+        "texto": "Transcreva a frase abaixo, utilizando letra cursiva, no",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      }
+    ],
+    "quantidade_de_respostas": [
+      41
+    ],
+    "tags": [
+      "Concursos",
+      "",
+      "Concursos"
+    ]
+  },
+  {
+    "_id": "EXAM4",
+    "data_criacao": "2025-01-28",
+    "estatisticas": {
+      "total_respostas": 0,
+      "acertos": "Não disponível",
+      "tempo_medio": "Não disponível"
+    },
+    "descricao": "Concurso Público - Edital nº 190/2022",
+    "ano": "2022",
+    "area": "Concursos",
+    "categoria": "Concurso Público",
+    "nivel": "Superior",
+    "questoes": [
+      {
+        "numero_questao": "1",
+        "texto": "711/12 as cotas são sociorraciais, já que o primeiro recorte é feito para os candidatos que tenham estudado em escolas públicas. “Uma primeira questão",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "2",
+        "texto": "Pode-se afirmar que o objetivo central do T",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "3",
+        "texto": "Quanto ao gênero textual, o T",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "4",
+        "texto": "Na frase “O ano de 2022 será marcado por grandes decisões no",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "5",
+        "texto": "Sobre o 2º parágrafo do T",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "6",
+        "texto": "No trecho “Porém, antes de tudo, é preciso entender o que é igualdade” (3º parágrafo), o termo",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "7",
+        "texto": "901 Rio de Janeiro/RJ",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "8",
+        "texto": "711/12) nas universidades federais, depois de uma",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "9",
+        "texto": "12. Geralmente, no gênero textual ofício, é possível",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "10",
+        "texto": "I - Quanto à coerência intratextual, o texto",
+        "alternativas": [],
+        "disciplina": "Português",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "11",
+        "texto": "No trecho [...] “sua participação mesmo que de",
+        "alternativas": [],
+        "disciplina": "Direito Processual",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "12",
+        "texto": "Sobre o trecho “O evento, será realizado no dia",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "13",
+        "texto": "758/2019 dispõe sobre",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "14",
+        "texto": "666/1993 institui normas para",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "15",
+        "texto": "No sistema operacional Microsoft Windows 10,",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "16",
+        "texto": "Na suíte de programas Microsoft Office, o programa usado para manipular dados em tabela é o",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "17",
+        "texto": "O sistema unificado de acesso aos serviços",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "18",
+        "texto": "Os servidores administrativos do Instituto de",
+        "alternativas": [],
+        "disciplina": "Direito Administrativo",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "19",
+        "texto": "e-a-isca-para-roubar-",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "20",
+        "texto": "Para acessar o site que contém o malware, é",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "21",
+        "texto": "O Malware é uma denominação genérica para",
+        "alternativas": [],
+        "disciplina": "Direito Processual",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "22",
+        "texto": "Uma avaliação com apenas duas questões foi",
+        "alternativas": [],
+        "disciplina": "Direito Penal",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "23",
+        "texto": "511,00) apresentou estabilidade frente ao",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "24",
+        "texto": "504,00) e redução em relação ao mesmo trimestre do ano anterior (R$ 2.752,00).",
+        "alternativas": [],
+        "disciplina": "Direito Processual",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "25",
+        "texto": "pnad-continua-taxa-de-desocupacao-e-",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "26",
+        "texto": "2-e-taxa-de-subutilizacao-e-de-23-5-no-trimestre-encerrado-em-fevereiro>.",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "27",
+        "texto": "Por lei, a jornada de trabalho de um",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "28",
+        "texto": "Um investidor aplicou 1/4 (um quarto) do seu",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      },
+      {
+        "numero_questao": "29",
+        "texto": "080,00 a mais do que a outra, o capital inicial do investidor foi, aproximadamente, de:",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "D"
+      },
+      {
+        "numero_questao": "30",
+        "texto": "Um grupo composto por seis",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "E"
+      },
+      {
+        "numero_questao": "31",
+        "texto": "Sejam as proposições Marcos é ator, É falso",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "A"
+      },
+      {
+        "numero_questao": "32",
+        "texto": "O vacinômetro é uma plataforma digital desenvolvida para fornecer dados de vacinação contra a",
+        "alternativas": [],
+        "disciplina": "Direito Processual",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "33",
+        "texto": "No âmbito do estado do Rio de Janeiro,",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "B"
+      },
+      {
+        "numero_questao": "34",
+        "texto": "218 vacinaram-se com a dose única (pouco mais que 2%).",
+        "alternativas": [],
+        "disciplina": "Não especificada",
+        "resposta_correta": "C"
+      }
+    ],
+    "quantidade_de_respostas": [
+      34
+    ],
+    "tags": [
+      "Concursos",
+      "",
+      "Concursos"
+    ]
+  },
+  {
+    "_id": "EXAM5",
+    "data_criacao": "2025-01-28",
+    "estatisticas": {
+      "total_respostas": 0,
+      "acertos": "Não disponível",
+      "tempo_medio": "Não disponível"
+    },
+    "descricao": "CONCURSO PÚBLICO PARA PROVIMENTO DE CARGOS VAGOS DE OFICIAL DE",
+    "area": "Concursos",
+    "categoria": "Concurso Público",
+    "nivel": "Superior",
+    "questoes": [],
+    "quantidade_de_respostas": [
+      0
+    ],
+    "tags": [
+      "Concursos",
+      "",
+      "Concursos"
+    ]
+  }
+]

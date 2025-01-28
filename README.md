@@ -59,3 +59,24 @@ Este projeto é baseado no trabalho original de [Hugo Tacito](https://github.com
 - 🌐 GitHub: [@washingtonwdc](https://github.com/washingtonwdc)
 - 📚 Repositório: [pcileecher](https://github.com/washingtonwdc/pcileecher)
 - 📧 Email: [washingtonwdc@gmail.com](mailto:washingtonwdc@gmail.com)
+
+# GCP Secret Creator
+
+Script para criar secrets no Google Cloud Platform Secret Manager.
+
+## Pré-requisitos
+
+- Google Cloud SDK instalado
+- Projeto GCP configurado
+- Autenticação configurada
+
+## Uso
+
+```bash
+./create-secret.sh SECRET_NAME SECRET_VALUE
+```
+
+Exemplo:
+```bash
+./create-secret.sh my-api-key "chave-secreta-123"
+```

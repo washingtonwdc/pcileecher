@@ -29,3 +29,6 @@ env/
 # Logs e caches
 *.log
 .DS_Store
+
+# API Keys
+sk-35539c5b02994f309859ef26a967141e

@@ -1,0 +1,759 @@
+{
+  "_id": "PCSP2001",
+  "descricao": "Concurso Público para Delegado de Polícia do Estado de São Paulo",
+  "quantidade_de_respostas": [100],
+  "banca": "VUNESP",
+  "area": "Direito",
+  "categoria": "Concurso Público",
+  "nivel": "Superior",
+  "ano": "2022",
+  "tags": ["Direito Penal", "Direito Processual Penal", "Legislação Especial", "Direito Constitucional", "Direitos Humanos", "Direito Administrativo", "Medicina Legal", "Direito Civil", "Criminologia", "Informática"],
+  "data_criacao": "2022-06-12",
+  "estatisticas": {
+    "total_respostas": 100,
+    "acertos": "Não disponível",
+    "tempo_medio": "Não disponível"
+  }
+}
+**QUESTÕES**
+{
+  "numero_questao": "1",
+  "texto": "No que concerne às Escolas Penais, Cesare Lombroso, autor italiano, é apontado como um dos principais expoentes da Escola",
+  "alternativas": ["Tecnicista", "Correcionalista", "Positivista", "Clássica", "de Defesa Social"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "2",
+  "texto": "A Extraterritorialidade do art. 7o do CP é fenômeno que",
+  "alternativas": ["considera o crime praticado tanto no local da ação quanto no local do resultado", "estabelece que a pena cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas", "autoriza a aplicação da lei penal estrangeira a determinados fatos praticados no território nacional", "considera como território nacional o mar territorial e seu respectivo espaço aéreo", "prescreve a aplicação da lei penal brasileira a determinados fatos cometidos fora do território nacional"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "3",
+  "texto": "Considere a seguinte hipótese: Caio, com intuito de obter vantagem econômica indevida, faz-se passar por Júlio, filho de Aurélia e, nesse papel, realiza ligação telefônica para ela, pedindo depósito de determinada quantia de dinheiro em conta de terceiro – seu cúmplice. Aurélia, inicialmente, se convence e promete fazer o depósito, mas, depois de desligar o telefone, resolve procurar seu filho, descobre o engodo e não deposita o dinheiro. Nesse caso, houve",
+  "alternativas": ["tentativa imperfeita", "tentativa perfeita", "tentativa vermelha", "tentativa cruenta", "crime impossível"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "4",
+  "texto": "De acordo com o que determina expressamente o art. 33 do CP, o condenado por crime contra a Administração Pública",
+  "alternativas": ["terá a progressão de regime do cumprimento da pena condicionada à reparação do dano que causou, ou à devolução do produto do ilícito praticado, com os acréscimos legais", "nos crimes praticados com abuso de poder ou violação de dever para com a Administração Pública perderá o cargo automaticamente quando condenado, independentemente da pena aplicada", "não pode gozar de suspensão condicional da pena, independentemente da quantidade de pena aplicada", "terá decretada por sentença a perda da remuneração e de qualquer direito à aposentadoria, inclusive sobre valores previamente pagos a título de contribuição para tal fim", "não tem direito à reabilitação"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "A"
+}
+{
+  "numero_questao": "5",
+  "texto": "São reduzidos de metade os prazos de prescrição",
+  "alternativas": ["para pessoa cujos cuidados especiais sejam imprescindíveis para menor de 6 (seis) anos de idade ou com deficiência", "quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos, ou, na data da sentença, idoso, ou seja, maior de 60 (sessenta) anos", "apenas quando o criminoso era, ao tempo do crime, maior de 70 (setenta) anos", "quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos, ou, na data da sentença, maior de 70 (setenta) anos", "para mulher com filho de até 12 (doze) anos de idade incompletos"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "D"
+}
+**QUESTÕES**
+{
+  "numero_questao": "6",
+  "texto": "Júpiter está arrumando a ligação elétrica de sua casa, com ajuda de Jano, seu amigo, que lhe segura a escada. Deixando de observar um dever objetivo de cuidado, Júpiter faz uma ligação equivocada e recebe uma alta descarga de energia, sofrendo inutilização permanente de membro. No mesmo incidente, Jano sofre uma lesão corporal leve. Em outro cenário, Saturno, pai dedicado e amoroso, está dando banho em seu filho, Nemestrino. Imprudentemente, Saturno deixa Nemestrino cair no chão, o que causa a morte imediata do bebê. No que concerne à lesão corporal sofrida por Jano e ao homicídio praticado por Saturno, o perdão judicial, ao menos em tese:",
+  "alternativas": ["aplica-se ao primeiro caso e depende de concordância da mãe de Nemestrino para aplicação ao segundo", "aplica-se ao segundo caso, mas não ao primeiro", "não se aplica a nenhum dos casos", "aplica-se a ambos os casos", "aplica-se ao primeiro caso, mas não ao segundo"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "7",
+  "texto": "O crime de omissão de socorro, do art. 135 do CP,",
+  "alternativas": ["tem pena aumentada de metade se da omissão resulta lesão corporal de qualquer natureza e triplicada se resulta morte", "não se consuma em caso de risco pessoal do sujeito ativo que se omite, desde que seja pedido socorro da autoridade pública", "tem sujeito ativo próprio e sujeito passivo impróprio", "consuma-se ainda que a vítima esteja morta", "é classificado como comissivo por omissão"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "8",
+  "texto": "O crime de sequestro e cárcere privado do art. 148 do CP,",
+  "alternativas": ["tem como bens jurídicos tutelados a liberdade individual e o patrimônio", "é classificado como crime continuado, tendo em vista que a ação se protrai no tempo", "apenas se consuma se o agente tem intenção de obter vantagem econômica", "não admite tentativa", "é qualificado se a vítima é cônjuge do agente, independentemente de serem, um(a) ou outro(a), homem ou mulher"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "9",
+  "texto": "Considere a seguinte hipótese: Petrônio e Cesarino são estudantes e colegas de faculdade. Em um almoço em que os dois e outros colegas estão sentados à mesma mesa, Petrônio, com intenção de causar prejuízo econômico a Cesarino, derrama água de uma jarra inteira sobre o computador pessoal que ele pensa ser de Cesarino. A ação é motivada por uma discussão sobre futebol. Ocorre que Petrônio, já obnubilado pela bebida alcoólica que havia ingerido, acaba se confundindo e derrama água somente sobre o próprio computador pessoal – o que efetivamente o danifica. Em face do exposto, é correto afirmar que",
+  "alternativas": ["Petrônio cometeu crime de dano na modalidade tentada, com agravante da embriaguez", "o fato é típico, mas não ilícito", "o fato é atípico", "Petrônio cometeu crime de dano consumado, uma vez que o erro sobre a pessoa não o isenta de pena", "Petrônio cometeu crime de dano qualificado, tendo em vista o motivo egoístico"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "10",
+  "texto": "Considere a seguinte hipótese: Arthur foi denunciado por Crime Contra a Organização do Trabalho, pois tem como meio de vida recrutar trabalhadores, mediante fraude, com o fim de levá-los para território estrangeiro. Octavio, seu melhor amigo, que é sabedor da ação penal e proprietário de uma casa de veraneio em outra Comarca, atende, a pedido de Arthur, e permite que ele utilize a referida casa como moradia provisória – o que realmente ocorre – com o intuito de evitar que o amigo seja citado na ação penal. Em face do exposto, é correto afirmar que",
+  "alternativas": ["Octavio praticou favorecimento pessoal, na modalidade privilegiada", "Octavio praticou favorecimento real e não lhe socorre qualquer causa de isenção", "Octavio praticou favorecimento pessoal, na modalidade qualificada", "Octavio praticou favorecimento real, mas não será punido em razão de causa de isenção de pena, tendo em vista a amizade íntima", "Arthur e Octávio praticaram fraude processual"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "B"
+}
+**QUESTÕES**
+{
+  "numero_questao": "11",
+  "texto": "A ausência de violência na ação daquele que, sem expressa permissão legal, faz justiça pelas próprias mãos, para satisfazer pretensão, embora legítima,",
+  "alternativas": ["torna o fato atípico", "é causa de diminuição de pena", "torna o fato lícito", "torna a ação penal privada", "possibilita a aplicação de perdão judicial"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "12",
+  "texto": "Lucius, advogado, representando seu cliente Maximus, protocola petição inicial de ação de despejo em face de Claudius. Ocorre que, em audiência, após descobrir que Claudius fora seu amigo de infância – fato do qual não se lembrava quando da propositura da ação – Lucius renuncia regularmente aos poderes outorgados por Maximus, colhe procuração de Claudius e começa a defendê-lo na mesma ação. No curso da defesa de Claudius, Lucius utiliza-se de fatos que lhe foram narrados por Maximus e que não eram do conhecimento de Claudius, fatos esses que são essenciais para que a ação seja julgada improcedente. Nesse caso, é correto afirmar que Lucius praticou",
+  "alternativas": ["crime de tergiversação", "crime de advocacia administrativa", "fato atípico à luz do Direito Penal", "crime de patrocínio infiel", "crime de exercício ilegal da profissão"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "13",
+  "texto": "Assinale a alternativa que apresenta crime próprio quanto ao sujeito ativo.",
+  "alternativas": ["Inserção de dados falsos em sistema de informações", "Fraudes em certames de interesse público", "Usurpação de função pública", "Corrupção ativa", "Subtração ou inutilização de livro ou documento"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "14",
+  "texto": "Assinale a alternativa correta no que concerne aos crimes contra a Administração.",
+  "alternativas": ["O crime de advocacia administrativa apenas se consuma se o interesse patrocinado pelo agente for ilegítimo", "O crime de corrupção passiva apenas se consuma quando há solicitação, recebimento ou aceitação de promessa indevida pelo funcionário", "O crime de concussão apenas se consuma quando a vantagem exigida é efetivamente auferida", "O crime de abandono de função apenas se consuma se do fato resultar prejuízo público", "O crime de modificação ou alteração não autorizada de sistema de informações apenas se consuma se houver dano para a Administração ou para o administrado"],
+  "disciplina": "Direito Penal",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "15",
+  "texto": "É correto afirmar que o Direito Processual Penal possui como uma de suas fontes formais mediatas",
+  "alternativas": ["a lei", "a Constituição Federal", "os costumes", "a analogia", "a interpretação extensiva"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "B"
+}
+**QUESTÕES**
+{
+  "numero_questao": "16",
+  "texto": "Na evolução do direito processual penal, percebe-se a influência de outros ramos do direito. O deu uma atenção ao aspecto subjetivo do crime, combateu a vingança privada, humanizou as penas, reprimiu o uso de ordálias e introduziu as penas privativas de liberdade em substituição às patrimoniais. É correto afirmar que o ramo do direito que corretamente completa o enunciado é:",
+  "alternativas": ["Direito Americano", "Direito Romano", "Direito Germânico", "Direito Francês", "Direito Canônico"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "17",
+  "texto": "No que concerne à interpretação e aplicação da Lei Processual Penal, é correto afirmar que o Código de Processo Penal",
+  "alternativas": ["admite apenas a aplicação da interpretação extensiva", "admite a aplicação analógica", "admite apenas a aplicação da interpretação analógica", "não admite a aplicação da analogia e dos princípios gerais de direito", "admite expressamente a interpretação autêntica"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "18",
+  "texto": "É correto afirmar que, hodiernamente, a prova digital:",
+  "alternativas": ["apesar de se tratar de meio de prova ilegítimo, admite-se a sua utilização na defesa do acusado", "apesar de se tratar de meio de prova ilícito, admite-se a sua utilização na defesa do acusado", "consiste em meio ilegítimo de prova, sendo vedada a sua utilização", "consiste em meio lícito e legítimo de prova e seu uso encontra alicerce na legislação", "consiste em meio ilícito de prova, sendo vedada a sua utilização"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "19",
+  "texto": "Nos termos do Código de Processo Penal, é correto afirmar que a ação penal privada",
+  "alternativas": ["exclusiva, em caso de morte do ofendido antes do início da ação, esta poderá ser intentada, em qualquer prazo, entre outras pessoas, por seu irmão", "exclusiva, em caso de morte do ofendido antes do início da ação, esta poderá ser intentada, em qualquer prazo, entre outras pessoas, por seu cônjuge", "personalíssima só pode ser intentada pela vítima e, em caso de falecimento antes ou depois do início da ação, não poderá haver substituição para sua propositura ou seu prosseguimento", "subsidiária da pública, findo o prazo do Ministério Público para oferecer denúncia, sem qualquer manifestação, poderá o ofendido oferecer a queixa e assumir definitivamente a ação penal, restando apenas ao Ministério Público o direito de aditar a queixa ou intervir no curso do processo", "personalíssima só pode ser intentada pela vítima ou por seu representante legal e, em caso de falecimento antes ou depois do início da ação, não poderá haver substituição para sua propositura ou seu prosseguimento"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "20",
+  "texto": "Nos termos do Código de Processo Penal, é correto afirmar que a competência será,",
+  "alternativas": ["na hipótese, entre outros, do crime de estelionato, quando praticados mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado, definida pelo local do domicílio da vítima", "na hipótese de infração continuada, praticada em território de duas ou mais jurisdições, firmada pelo lugar do último ato de execução", "em regra, determinada pelo lugar da infração ou do domicílio ou residência do réu, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução", "em regra, determinada pelo domicílio ou residência do réu, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução", "na hipótese de infração permanente, praticada em território de duas ou mais jurisdições, firmada pelo lugar do último ato de execução"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "C"
+}
+**QUESTÕES**
+{
+  "numero_questao": "21",
+  "texto": "Nos termos do Código de Processo Penal, a competência será firmada pela",
+  "alternativas": ["continência, entre outras hipóteses, se, no mesmo caso, duas ou mais infrações tiverem sido umas praticadas para facilitar ou ocultar as outras, ou para conseguir impunidade ou vantagem em relação a qualquer delas", "conexão, entre outras hipóteses, quando a prova de uma infração ou de qualquer de suas circunstâncias elementares influir na prova de outra infração", "continência, entre outras hipóteses, quando a prova de uma infração, cometida por dolo eventual ou por qualquer de suas circunstâncias elementares, influir na prova de outra infração", "conexão, entre outras hipóteses, quando três ou mais pessoas forem acusadas pela mesma infração", "conexão, entre outras hipóteses, quando duas ou mais pessoas forem acusadas pela mesma infração"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "A"
+}
+{
+  "numero_questao": "22",
+  "texto": "Nos que concerne à cadeia de custódia e das perícias previstas no Código de Processo Penal, é correto afirmar:",
+  "alternativas": ["vestígio é todo material encontrado e recolhido no local da infração, que se relaciona ou não com a infração penal, mas que poderá receber essa denominação pelo Delegado de Polícia", "após a realização da perícia, o material deverá ser devolvido ao Delegado de Polícia, que poderá determinar a remessa à central de custódia, quando então deverá nela permanecer", "caso a central de custódia não possua espaço para armazenar determinado material, deverá o Ministério Público determinar as condições de depósito do referido material em local diverso, mediante requerimento do diretor do órgão central de perícia oficial de natureza criminal", "o início da cadeia de custódia dá-se com a apreensão dos objetos pela autoridade policial, assim como com procedimentos policiais ou periciais nos quais seja detectada a existência de vestígio", "considera-se cadeia de custódia o conjunto de todos os procedimentos utilizados para manter e documentar a história cronológica do vestígio coletado em locais ou em vítimas de crimes, para rastrear sua posse e manuseio a partir de seu reconhecimento até o descarte"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "23",
+  "texto": "Nos termos do Código de Processo Penal, é correto afirmar que",
+  "alternativas": ["não se admitirá a intimação por despacho na petição em que for requerida", "adiada, por qualquer motivo, a instrução criminal, o juiz marcará desde logo, dia e hora para seu prosseguimento, intimando-se as partes por edital", "verificando que o réu se oculta para não ser citado, o oficial de justiça certificará a ocorrência e procederá à citação por edital", "verificando que o réu se oculta para não ser citado, o oficial de justiça certificará a ocorrência e procederá à citação com hora certa", "quando o réu estiver fora do território da jurisdição do juiz processante, será citado mediante edital"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "24",
+  "texto": "No que concerne às medidas cautelares previstas no Código de Processo Penal, é correto afirmar que",
+  "alternativas": ["ressalvados, exclusivamente, os casos de urgência, o juiz, ao receber o pedido de medida cautelar, determinará a intimação da parte contrária, para se manifestar no prazo de 5 (cinco) dias, acompanhada de cópia do requerimento e das peças necessárias, permanecendo os autos em juízo", "o juiz poderá, de ofício ou a pedido das partes, revogar a medida cautelar ou substituí-la quando verificar a falta de motivo para que subsista, sendo-lhe vedada nova decretação", "no caso de descumprimento de qualquer das obrigações impostas, o juiz, de ofício ou mediante requisição do Ministério Público ou do querelante, deverá substituir a medida, decretando a prisão preventiva", "as medidas cautelares serão decretadas pelo juiz a requerimento das partes ou, quando no curso da investigação criminal, por representação da autoridade policial ou mediante requerimento do Ministério Público", "ninguém poderá ser preso senão por ordem escrita e fundamentada da autoridade judiciária competente, em virtude de condenação criminal transitada em julgado"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "25",
+  "texto": "Nos termos do Código de Processo Penal, é correto afirmar no que concerne à fiança que",
+  "alternativas": ["não será concedida fiança nos crimes de abuso de autoridade", "o valor em que consistir a fiança será recolhido obrigatoriamente ao depositário público, juntando-se aos autos os respectivos conhecimentos", "para determinar o valor da fiança, a autoridade terá em consideração, exclusivamente, a natureza da infração e a vida pregressa do acusado", "a fiança, que será sempre definitiva, consistirá em depósito de dinheiro, pedras, objetos ou metais preciosos, títulos da dívida pública, federal, estadual ou municipal, ou em hipoteca inscrita em primeiro lugar", "o réu afiançado não poderá, sob pena de quebra mento da fiança e multa, ausentar-se por mais de 5 (cinco) dias de sua residência, sem comunicar ao Ministério Público o lugar onde será encontrado"],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "B"
+}
+**QUESTÕES**
+{
+  "numero_questao": "26",
+  "texto": "Com relação à sentença, é correto afirmar que o Código de Processo Penal determina que",
+  "alternativas": ["na decisão condenatória do Tribunal do Júri a uma pena igual ou superior a 15 (quinze) anos de reclu-são, poderá o tribunal atribuir efeito suspensivo à apelação, apenas quando verificado que o recurso levanta questão substancial.", "a decisão condenatória do Tribunal do Júri a uma pena igual ou superior a 15 (quinze) anos de reclu-são, com quatro ou mais condenados, terá efeito suspensivo.", "a apelação interposta contra decisão condenató-ria do Tribunal do Júri a uma pena igual ou supe-rior a 15 (quinze) anos de reclusão não terá efeito suspensivo.", "na decisão condenatória do Tribunal do Júri a uma pena igual ou superior a 15 (quinze) anos de reclu-são, poderá o tribunal atribuir efeito suspensivo à apelação, apenas quando verificado que o recurso não tem propósito meramente protelatório.", "a apelação interposta contra decisão condenató-ria do Tribunal do Júri a uma pena igual ou supe-rior a 10 (dez) anos de reclusão não terá efeito suspensivo."],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "27",
+  "texto": "Nos termos do Código de Processo Penal, é correto afirmar que",
+  "alternativas": ["no procedimento ordinário, oferecida a denúncia ou queixa, o juiz, se não a rejeitar liminarmente, recebê-la-á e ordenará a citação do acusado para responder à acusação, por escrito, no prazo de 15 (quinze) dias.", "no caso de citação por edital, o prazo para a defesa começará a fluir a partir do comparecimento pessoal do acusado ou do defensor constituído.", "no caso de citação por edital, o prazo para a defesa começará a fluir a partir da publicação pela imprensa.", "no procedimento sumário, oferecida a denúncia ou queixa, o juiz, se não a rejeitar liminarmente, recebê-la-á e ordenará a citação do acusado para responder à acusação, por escrito, no prazo de 15 (quinze) dias.", "no caso de citação por edital, o prazo para a defesa começará a fluir a partir da ciência do acusado ou do defensor constituído."],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "28",
+  "texto": "Nos termos do Código de Processo Penal, é correto afirmar que",
+  "alternativas": ["as omissões da denúncia ou da queixa, da represen-tação, ou, nos processos das contravenções penais, da portaria ou do auto de prisão em flagrante pode-rão ser supridas a todo o tempo, antes do ofereci-mento da denúncia.", "a nulidade por ilegitimidade do representante da par-te poderá ser sanada até a citação do acusado, im-plicando em ratificação dos atos processuais.", "não será declarada a nulidade de ato processual que não houver influído na apuração da verdade subs-tancial ou na decisão da causa.", "a falta ou a nulidade da citação, da intimação ou no-tificação não será considerada sanada pelo compa-recimento do interessado.", "a incompetência do juízo anula todos os atos, deci-sórios ou não, devendo o processo, quando for de-clarada a nulidade, ser remetido ao juiz competente."],
+  "disciplina": "Direito Processual Penal",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "29",
+  "texto": "Nos termos da Lei no 9.296/1996 (Lei de Interceptação Telefônica), é correto afirmar:",
+  "alternativas": ["excepcionalmente, o juiz poderá admitir que o pedi-do seja formulado verbalmente, desde que estejam presentes os pressupostos que autorizem a intercep-tação das comunicações telefônicas, caso em que a concessão será condicionada à sua redução a termo.", "a interceptação das comunicações telefônicas somente poderá ser determinada pelo juiz a requeri-mento da autoridade policial, na investigação criminal, exigindo-se que, do referido requerimento, conste a necessidade de se utilizar o meio de investigação na apuração realizada.", "a interceptação das comunicações telefônicas não poderá ser determinada de ofício pelo juiz, sendo admitida apenas na hipótese de requerimento do representante do Ministério Público, devidamente fundamentado, demonstrando a necessidade de se utilizar esse meio de investigação.", "a interceptação das comunicações telefônicas poderá ser determinada pelo juiz a requerimento da autoridade policial, do representante do Ministério Público ou do Assistente de Acusação, na investigação criminal, nas hipótese de crimes punidos com pena de detenção ou reclusão.", "o juiz decidirá sobre o pedido de interceptação das comunicações telefônicas, no prazo máximo de qua-renta e oito horas, em despacho fundamentado, defi-nindo a autoria ou a participação em infração penal."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "A"
+}
+{
+  "numero_questao": "30",
+  "texto": "Nos termos da Lei no 10.671/2003 (Estatuto de Defesa do Torcedor), é correto afirmar que a conduta do servidor público",
+  "alternativas": ["tipifica um crime com causa de aumento de pena.", "tipifica uma contravenção penal.", "não tipifica qualquer infração penal.", "tipifica em ilícito administrativo.", "tipifica apenas um ilícito civil."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "A"
+}
+**QUESTÕES**
+{
+  "numero_questao": "31",
+  "texto": "Nos termos da Lei no 10.741/2003 (Estatuto do Idoso), assinale a alternativa que corretamente apresenta um crime.",
+  "alternativas": ["Deixar de cumprir as determinações da referida Lei sobre a prioridade no atendimento ao idoso.", "Deixar o profissional de saúde de comunicar à auto-ridade competente os casos de crimes contra idoso de que tiver conhecimento.", "Deixar o responsável por estabelecimento de saúde ou instituição de longa permanência de comunicar à autoridade competente os casos de crimes contra idoso de que tiver conhecimento.", "Deixar a entidade de atendimento de oferecer ins-talações físicas em condições adequadas de habi-tabilidade.", "Deixar de prestar assistência ao idoso, quando pos-sível fazê-lo sem risco pessoal, em situação de imi-nente perigo, sem justa causa, ou não pedir, nesses casos, o socorro de autoridade pública."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "32",
+  "texto": "Nos termos da Lei no 10.826/2003 (Estatuto do Desarma-mento), é correto afirmar que",
+  "alternativas": ["o crime de Omissão de Cautela é considerado doloso e apenado com detenção.", "todos os crimes tipificados na referida legislação são apenados com reclusão.", "o crime de disparo de arma de fogo é apenado com detenção.", "o crime de posse ou porte ilegal de arma de fogo de uso proibido é considerado hediondo.", "a referida legislação contempla diversos crimes dolo-sos e culposos."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "33",
+  "texto": "Nos termos da Lei no 11.340/2006 (Lei “Maria da Penha”), é correto afirmar que:",
+  "alternativas": ["a conduta que configure calúnia, difamação ou injú-ria, contra mulher, trata-se de uma forma de violência doméstica caracterizada pela violência física.", "na hipótese de prisão em flagrante por descumprimento de decisão judicial que deferiu medidas proteti-vas de urgência, apenas a autoridade judicial poderá conceder fiança.", "é direito da mulher em situação de violência domés-tica e familiar o atendimento policial e pericial espe-cializado, prestado por servidores – exclusivamente do sexo feminino.", "em qualquer fase do inquérito policial ou da instru-ção criminal, caberá a prisão preventiva do agressor, decretada pelo juiz, somente mediante requerimento do Ministério Público.", "A conduta de descumprir decisão judicial que defere medidas protetivas de urgência previstas tipifica um crime apenado com reclusão."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "34",
+  "texto": "Nos termos da Lei no 11.343/2006 (Lei Antidrogas), é correto afirmar que",
+  "alternativas": ["para garantia do cumprimento da medida educativa de prestação de serviço à comunidade, havendo recusa injustificada, poderá o juiz submetê-lo, suces-sivamente a admoestação verbal e multa.", "o tratamento do usuário ou dependente de drogas deverá ser ordenado em uma rede de atenção à saúde, incluindo excepcionalmente formas de inter-nação a ser realizada exclusivamente em hospitais.", "fica instituída a Semana Nacional de Políticas sobre Drogas, comemorada anualmente, na quarta semana de setembro.", "quem adquirir ou guardar para consumo pessoal drogas sem autorização ou em desacordo com determinação legal ou regulamentar será submetido à pena de detenção.", "o tratamento do usuário ou dependente de drogas deverá ser ordenado em uma rede de atenção à saúde que contempla, como exceção, a modalidade de internação involuntária, apenas por determinação judicial."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "35",
+  "texto": "Nos termos da Lei no 12.037/2009 (Identificação Criminal do Civilmente Identificado), é correto afirmar que:",
+  "alternativas": ["as cópias dos documentos apresentados deverão ser juntadas aos autos do inquérito, ou outra forma de investigação, exceto se consideradas insuficientes para identificar o indiciado.", "é vedado mencionar a identificação criminal do indiciado em atestados de antecedentes ou em infor-mações não destinadas ao juízo criminal, antes do trânsito em julgado da sentença condenatória.", "apresentado o documento de identificação, é vedada a identificação criminal alicerçada na situação de estado de conservação ou a distância temporal.", "apresentado o documento de identificação, é veda-da a identificação criminal alicerçada na situação de constar dos registros policiais o uso de outros nomes ou diferentes qualificações.", "a identificação criminal incluirá o processo datiloscó-pico e o fotográfico, que serão juntados aos autos da comunicação da prisão em flagrante ou do inquérito policial, sendo vedada a juntada a outra forma de investigação."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "B"
+}
+**QUESTÕES**
+{
+  "numero_questao": "36",
+  "texto": "Nos termos da Lei no 12.830/2013 (Investigação Criminal conduzida pelo Delegado de Polícia), é correto afirmar:",
+  "alternativas": ["os cargos de escrivão e de delegado de polícia são privativos de bacharel em Direito, devendo ser dis-pensado ao Delegado de Polícia o mesmo tratamento protocolar que recebem os magistrados, os membros da Defensoria Pública e do Ministério Público e os advogados.", "durante a investigação criminal, cabe ao escrivão, por delegação do Delegado de Polícia, a requisição de perícia, informações, documentos e dados que interessem à apuração dos fatos.", "as funções de polícia judiciária e a apuração de infrações penais exercidas pelo delegado de polícia são de natureza jurídica, essenciais e exclusivas de Estado.", "o inquérito policial ou outro procedimento previsto em lei em curso somente poderá ser avocado ou redistribuído por superior hierárquico, mediante des-pacho fundamentado, exclusivamente, por motivo de interesse público.", "a remoção do delegado de polícia dar-se-á somente por ato fundamentado do Secretário da Segurança Pública."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "37",
+  "texto": "Nos termos da Lei no 13.431/2017 (Lei de Escuta Espe-cializada), é correto afirmar:",
+  "alternativas": ["depoimento especial é o procedimento de oitiva de criança ou adolescente sobre situações que envolvem organizações criminosas.", "depoimento especial é o procedimento de oitiva de criança ou adolescente vítima ou testemunha de vio-lência perante autoridade policial ou judiciária.", "escuta especializada é o procedimento de oitiva de criança ou adolescente vítima ou testemunha de vio-lência perante autoridade policial ou judiciária.", "escuta especializada é o procedimento de inquirição de testemunhas de situações de violência doméstica, limitado o relato estritamente ao necessário para o cumprimento de sua finalidade.", "escuta especializada é o procedimento de interroga-tório de indiciados em situações que envolvem orga-nizações criminosas, limitado o relato estritamente ao necessário para o cumprimento de sua finalidade."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "38",
+  "texto": "Nos termos da Lei no 13.445/2017 (Lei de Migração), é correto afirmar que a política migratória brasileira, entre outros, rege-se pelo seguinte princípio e diretriz:",
+  "alternativas": ["criminalização da migração.", "acesso igualitário e livre do migrante a serviços, pro-gramas e benefícios sociais, bens públicos, educa-ção, a assistência jurídica integral pública, trabalho, moradia, excetuando-se serviço bancário e seguri-dade social.", "fortalecimento da integração econômica, política, social e cultural dos povos da América Latina e Europa, mediante constituição de espaços de cidadania e de livre circulação de pessoas.", "autorização, em situações excepcionais, da práticas de expulsão ou de deportação coletivas.", "diálogo social na formulação, na execução e na ava-liação de políticas migratórias e promoção da partici-pação cidadã do migrante."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "39",
+  "texto": "Para fins da Lei no 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), considera-se:",
+  "alternativas": ["Dado Pessoal: informação relacionada à pessoa física ou jurídica natural identificada ou identificável.", "Titular: pessoa física ou jurídica a quem se referem os dados pessoais que são objeto de tratamento.", "Dado Pessoal Sensível: dado pessoal sobre origem racial ou étnica, endereço completo, inscrição no CPF, convicção religiosa, opinião política, filiação a sindicato.", "Banco de Dados: conjunto estruturado de dados pessoais, estabelecido em um ou em vários locais, em suporte eletrônico ou físico.", "Dado Anonimizado: dado pessoal a titular que não possa ser identificado, sobre origem racial ou étnica
+}
+**QUESTÕES**
+{
+  "numero_questao": "40",
+  "texto": "É correto afirmar que a Lei no 13.869/2019 (Lei de Abuso de Autoridade) alterou a Lei nº 8.906/1994 (Estatuto da Advocacia e a OAB) a fim de:",
+  "alternativas": ["tipificar como crime apenado com detenção a conduta de violar determinados direitos ou prerrogativas previstos na referida legislação.", "alterar a tipificação de uma conduta anteriormente descrita como contravenção penal, para crime apenado com reclusão.", "alterar o rol de prerrogativas dos advogados, ampliando e prevendo como crime apenado com reclusão, a violação de direito ou prerrogativas.", "prever como crime inafiançável e apenado com detenção a violação de direito ou prerrogativas dos advogados.", "alterar o rol de prerrogativas dos advogados, ampliando e prevendo como crime apenado com detenção, a violação de qualquer direito ou prerrogativas, previstos na legislação."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "41",
+  "texto": "No que concerne aos investigados em inquérito policial que investiga uso da força letal, é correto afirmar que a Lei no 13.964/2019 (Pacote Anticrime):",
+  "alternativas": ["a indicação do profissional para o exercício da defesa do servidor deverá ser precedida de manifestação de que não existe defensor público lotado na área territorial onde tramita o inquérito e com atribuição para nele atuar, hipótese em que poderá ser indicado Bacharel em Direito, como defensor ad hoc, mesmo sem inscrição na OAB.", "havendo necessidade de indicação de defensor, a defesa caberá exclusivamente à Defensoria Pública, e, nos locais em que ela não estiver instalada, a União ou a Unidade da Federação correspondente à respectiva competência territorial do procedimento instaurado deverá disponibilizar profissional para acompanhamento e realização de todos os atos relacionados à defesa administrativa do investigado.", "na hipótese de não atuação da Procuradoria do Estado, os custos com o patrocínio dos interesses dos investigados nos procedimentos de que trata esse artigo correrão por conta do orçamento próprio da instituição a que este esteja vinculado à época da ocorrência dos fatos investigados.", "havendo necessidade de indicação de defensor, a defesa caberá preferencialmente à Defensoria Pública, e, nos locais em que ela não estiver instalada, a União ou a Unidade da Federação correspondente à respectiva competência territorial do procedimento instaurado deverá disponibilizar profissional para acompanhamento e realização de todos os atos relacionados à defesa administrativa do investigado.", "não contemplou qualquer dispositivo nesse sentido."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "42",
+  "texto": "É correto afirmar que a Lei no 14.133/2021 (Lei de Licitações e Contratos Administrativos), entre outras alterações, no que se refere aos crimes,",
+  "alternativas": ["passou a contemplar modalidades de crimes culposos em licitações e contratos administrativos, apenando-os com detenção.", "apenas alterou a Lei nº 8.666/1993, aumentando as penas previstas nas tipificações existentes.", "considerou como hediondos alguns crimes em licitações e contratos administrativos previstos na Lei no 8.666/1993.", "tipificou novas condutas omissivas como contravenção penal, apenando-as com prisão simples e multa.", "revogou os crimes previstos na Lei no 8.666/93, inserindo no Código Penal novas tipificações de crimes em licitações e contratos administrativos."],
+  "disciplina": "Legislação Especial",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "43",
+  "texto": "Nos termos do inciso II, do artigo 12-C, da Lei Federal no 11.340 de 7 de agosto de 2006, verificada a existência de risco atual ou iminente à vida ou à integridade física ou psicológica da mulher em situação de violência doméstica e familiar, ou de seus dependentes, o agressor será imediatamente afastado do lar, domicílio ou local de convivência com a ofendida pelo delegado de polícia, quando o Município não for sede de comarca. À luz da Constituição da República, é correto afirmar que",
+  "alternativas": ["o ingresso no domicílio sem o consentimento do morador só pode ocorrer em caso de flagrante delito ou, durante o dia, mediante autorização judicial, razão pela qual o dispositivo enunciado, ao tratar de hipóteses de risco, é inconstitucional.", "a autorização legal para que delegados de polícia atuem para interromper o ciclo de violência doméstica não viola a prerrogativa constitucional do Judiciário de decretar medidas cautelares.", "o afastamento do suposto agressor pelo delegado de polícia, na hipótese legal descrita pelo enunciado, é inconstitucional por ofensa ao postulado normativo do devido processo legal.", "o dispositivo cria hipótese legal para que o delegado pratique atos de competência privativa do Poder Judiciário, com ofensa ao princípio da reserva de jurisdição e da inviolabilidade do domicílio.", "a Constituição permite a invasão do lar somente mediante prévia autorização judicial, em decorrência da garantia de inviolabilidade do domicílio."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "44",
+  "texto": "No tocante ao regramento e aos princípios constitucionais que regem a Administração Pública, é correto afirmar que",
+  "alternativas": ["os princípios da Administração Pública explícitos na Constituição possuem supremacia em relação aos implícitos.", "o Poder Público está vinculado ao princípio da legalidade formal, mas não ao da juridicidade.", "a vedação ao nepotismo é regra constitucional que decorre do núcleo dos princípios da impessoalidade e da moralidade administrativas.", "a proibição de acumulação remunerada de cargos públicos abrange as sociedades de economia mista, mas não suas subsidiárias.", "o princípio da publicidade garante, dentre outros, o direito incondicionado de informação de interesse público, individual ou coletivo aos cidadãos."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "C"
+}
+**QUESTÕES**
+{
+  "numero_questao": "45",
+  "texto": "Poder constituinte originário é o que cria uma Constituição. Assinale a alternativa correta, considerando as características desse importante instituto jurídico.",
+  "alternativas": ["Não é possível a declaração de inconstitucionalidade de norma anterior à Constituição, com ela materialmente compatível, editada com desobediência à Constituição então vigente.", "O Poder Judiciário pode exercer controle de constitucionalidade sobre preceitos estatuídos pelo poder constituinte originário.", "O poder constituinte originário da origem à nova ordem jurídica, razão pela qual os diplomas infraconstitucionais perdem vigor com o advento de uma nova Constituição.", "O princípio da segurança das relações jurídicas não permite a restauração da eficácia de lei que perdeu vigência com o advento de uma nova Constituição, quando esta é revogada por uma terceira Constituição.", "As normas supervenientes do poder constituinte originário possuem como regra eficácia retroativa mínima e média e, excepcionalmente, eficácia retroativa máxima."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "46",
+  "texto": "Considerando o entendimento doutrinário consolidado sobre a classificação das Constituições, assinale a alternativa correta.",
+  "alternativas": ["A Constituição normativa é a que logra ser fielmente cumprida por todos os interessados, limitando, efetivamente o poder, enquanto a semântica é a formalização do poder de quem o detém no momento.", "A Constituição material é aquela que possui apenas matérias tipicamente constitucionais, enquanto as formais são as que possuem normas constitucionais e normas não constitucionais.", "As Constituições estatutárias traçam metas, programas de ação e objetivos para as atividades do estado nos domínios econômico, social e cultural, enquanto as dirigentes concentram a sua atenção normativa nos aspectos de estrutura de poder.", "A Constituição cesarista é aquela feita e imposta ao povo pelo governante, enquanto a promulgada é a feita pelo governante, mas submetida à apreciação posterior do povo.", "A Constituição semirrígida é aquela que possui normas submetidas ao mesmo procedimento de alteração das demais leis, bem como normas que não podem ser alteradas."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "47",
+  "texto": "A Constituição Federal de 1988 contempla o controle de constitucionalidade nos âmbitos estadual e municipal. Sobre a matéria, é correto afirmar que",
+  "alternativas": ["a ordem constitucional vigente não autoriza a disciplina pelas Constituições Estaduais do controle abstrato de inconstitucionalidade da omissão.", "a lei municipal não pode ser objeto de controle de constitucionalidade pelo Supremo Tribunal Federal.", "o parâmetro para o controle abstrato de normas perante o Tribunal de Justiça estadual será exclusivamente a Constituição Estadual.", "normas da Constituição Estadual que reproduzam normas da Constituição Federal implicam na descaracterização daquelas como parâmetro de controle de constitucionalidade estadual.", "a autorização para que os Estados instituam a representação de inconstitucionalidade de lei ou ato normativo estadual em face da Constituição Estadual não implica na legitimação destes para instituir ação declaratória de inconstitucionalidade."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "48",
+  "texto": "A garantia constitucional da liberdade de locomoção",
+  "alternativas": ["abrange apenas os brasileiros e os estrangeiros residentes no Brasil.", "abrange o direito de permanência no território nacional.", "é norma constitucional de aplicabilidade imediata, direta e integral.", "pode ser tutelada por meio do recurso de habeas corpus.", "não abrange o direito de saída de não residentes no país."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "49",
+  "texto": "Segundo a doutrina, os direitos políticos negativos consistem nas previsões constitucionais que restringem o acesso do cidadão à participação nos órgãos governamentais, por meio de impedimento à candidatura. Sobre o tema, é correto afirmar que",
+  "alternativas": ["o indivíduo que se encontrar em hipótese de inelegibilidade absoluta não poderá pleitear nenhum mandato eletivo.", "os militares estão impedidos de candidatar-se, pois abrangidos pela inelegibilidade absoluta.", "os conscritos são inalistáveis e relativamente inelegíveis.", "o analfabeto não possui capacidade eleitoral passiva, incidindo na hipótese de inelegibilidade relativa.", "os casos de inelegibilidade estabelecidos pela Constituição são normas de eficácia limitada."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "A"
+}
+**QUESTÕES**
+{
+  "numero_questao": "50",
+  "texto": "A Constituição da República adotou o federalismo como forma de Estado. Considerando os aspectos relevantes sobre o tema, assinale a alternativa que se coaduna com o regramento constitucional da matéria.",
+  "alternativas": ["Os Estados que ingressam na federação possuem plena autonomia política.", "Os princípios federais extensíveis subdividem-se em normas de competência e normas de preordenação.", "O princípio da indissolubilidade do vínculo federativo não está expressamente consagrado na Constituição Federal.", "A mera tentativa de secessão de Estado-membro não enseja a decretação de intervenção federal.", "A União é entidade federativa autônoma em relação aos Estados e Municípios, cabendo-lhe exercer atribuições de soberania do Estado brasileiro."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "51", 
+  "texto": "No tocante à Organização do Estado Brasileiro, sob a perspectiva dos Estados federados, é correto afirmar que",
+  "alternativas": ["os Estados membros se auto-organizam por meio do exercício de seu poder constituinte originário, consubstanciando-se na edição das respectivas Constituições.", "a constituição define as competências tributárias e legislativas, indispensáveis à autoadministração dos Estados membros, mas não delimita as competências administrativas.", "a autonomia Estadual também se caracteriza pelo autogoverno, a qual permite ao povo do estado a escolha de representantes nas três esferas de Poder.", "os Estados poderão, em decorrência do poder de auto-organização, instituir regiões metropolitanas, aglomerações urbanas e microrregiões, mediante lei ordinária.", "a inobservância pelos Estados membros de princípios constitucionais sensíveis pode acarretar sanção de intervenção na autonomia política."],
+  "disciplina": "Direito Constitucional", 
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "52",
+  "texto": "Considerando o disposto na Constituição da República, bem como o entendimento jurisprudencial e doutrinário consolidado sobre a organização funcional do Estado, assinale a alternativa correta.",
+  "alternativas": ["A Constituição da República assegura imunidade formal e material a vereadores e prefeitos municipais.", "Compete à Justiça Estadual processar e julgar prefeito municipal por desvio de verba sujeita a prestação de contas perante órgão federal.", "A Câmara de Vereadores possui personalidade jurídica, podendo demandar em juízo para defender os seus direitos institucionais.", "Compete à Justiça Estadual processar e julgar prefeito por desvio de verba transferida e incorporada ao patrimônio municipal.", "A extinção do mandato do prefeito impede a instauração de processo pela prática de crimes de responsabilidade."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "53",
+  "texto": "É da competência exclusiva do Congresso Nacional:",
+  "alternativas": ["anular os atos normativos do Poder Executivo que exorbitem do poder regulamentar.", "declarar guerra e celebrar a paz.", "escolher dois terços dos membros do Tribunal de Contas da União.", "fixar e modificar o efetivo das Forças Armadas.", "autorizar o estado de calamidade pública de âmbito nacional."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "54",
+  "texto": "Nos termos do artigo 139 da Constituição do Estado de São Paulo, a Segurança Pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública, da incolumidade das pessoas e do patrimônio. Considerando os preceitos decorrentes deste comando normativo, assinale a alternativa correta.",
+  "alternativas": ["O Delegado-Geral da Polícia Civil será nomeado pelo Governador do Estado dentre quaisquer dos integrantes da carreira.", "a polícia do Estado será integrada pela Polícia Civil, pela Polícia Militar e pela Polícia Legislativa.", "A Polícia Civil é força auxiliar, reserva do Exército Brasileiro.", "A remoção de integrante da carreira de delegado de polícia poderá ocorrer mediante manifestação favorável do Colegiado Superior da Polícia Civil.", "À Polícia Civil incumbem, ressalvada a competência da União, as funções de polícia judiciária, de polícia ostensiva e a de apuração de infrações penais, exceto as militares."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "D"
+}
+**QUESTÕES**
+{
+  "numero_questao": "55",
+  "texto": "Assinale a alternativa que está em conformidade com os mandamentos constitucionais sobre o direito à educação no Brasil.",
+  "alternativas": ["É dever do Estado o atendimento ao educando, em todas as etapas da educação.", "O ensino é livre à iniciativa privada, a qual pode se submeter à avaliação de qualidade pelo Poder Público.", "O Estado não poderá destinar recursos públicos a escolas comunitárias, confessionais ou filantrópicas.", "Os Municípios atuarão prioritariamente no ensino médio e na educação infantil.", "A União, os Estados, o Distrito Federal e os Municípios exercerão ação redistributiva em relação a suas escolas."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "56",
+  "texto": "À luz da Constituição Federal, da doutrina pátria e do entendimento jurisprudencial consolidado, tendo em vista os mecanismos de proteção dos direitos fundamentais em procedimentos investigatórios comandados por delegados de polícia, é correto afirmar que",
+  "alternativas": ["é direito do defensor, no interesse do representado, ter acesso amplo aos elementos constantes de inquérito policial, incluídas as informações concernentes a diligências investigatórias pendentes.", "o fornecimento recíproco de dados investigatórios e o intercâmbio de informações entre a Polícia Federal e as polícias estaduais são medidas que se legitimam em face do modelo constitucional de federalismo cooperativo.", "a autoridade policial pode negar vista do inquérito policial ao indiciado ou ao seu defensor, em feito que tramita sob segredo de justiça.", "é possível que a autoridade policial impeça o acesso aos autos do inquérito policial por um dos interessados, objetivando assegurar o direito à intimidade dos demais investigados.", "a liberdade de informação jornalística legitima a utilização de informações sigilosas, obtidas por meios ilícitos, sobre inquéritos policiais em andamento."],
+  "disciplina": "Direito Constitucional",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "57",
+  "texto": "Nos termos da Declaração Universal dos Direitos Humanos, é correto afirmar que",
+  "alternativas": ["determina que todo ser humano tem direito à liberdade de reunião e associação pacífica.", "não possui qualquer previsão no que concerne à liberdade de reunião.", "determina que todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização.", "determina que todos podem reunir-se, com ou sem armas, em locais abertos ao público ou não.", "determina que todos podem reunir-se, em locais abertos ao público, independentemente de autorização."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "A"
+}
+{
+  "numero_questao": "58",
+  "texto": "No que concerne ao direito à vida previsto na Convenção Americana de Direitos Humanos, é correto afirmar que",
+  "alternativas": ["nos países que não houverem abolido a pena de morte, esta só poderá ser imposta pelo cometimento do delito de genocídio.", "toda pessoa condenada à morte tem direito a solicitar anistia, que deverá ser imediatamente concedida.", "em nenhum caso pode a pena de morte ser aplicada, independentemente da natureza do delito cometido.", "em nenhum caso pode a pena de morte ser aplicada a delitos políticos, nem a delitos comuns conexos com delitos políticos.", "não se deve impor a pena de morte a pessoa que, no momento da perpetração do delito, for menor de vinte e um anos ou maior de sessenta anos."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "59",
+  "texto": "Os sistemas internacionais de proteção dos direitos humanos são o conjunto de normas, órgãos e mecanismos internacionais surgidos a partir de 1945 com o intuito de promover a proteção dos direitos humanos em todo o mundo. É correto afirmar que, na atualidade, existem",
+  "alternativas": ["2 sistemas regionais de proteção (interamericano e europeu) e 1 sistema universal (Nações Unidas).", "3 sistemas regionais de proteção (interamericano, europeu e africano) e 1 sistema universal (Nações Unidas).", "4 sistemas regionais de proteção (interamericano, asiático, europeu e africano) e 1 sistema universal (Nações Unidas).", "2 sistemas regionais de proteção (interamericano e africano) e 1 sistema universal (Nações Unidas).", "4 sistemas regionais de proteção (interamericano, asiático, europeu e africano)."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "B"
+}
+**QUESTÕES**
+{
+  "numero_questao": "60",
+  "texto": "Nos termos do Código de Conduta para os Funcionários Responsáveis pela Aplicação da Lei (Adotado pela Assembleia Geral das Nações Unidas na sua Resolução no 34/169, de 17 de dezembro de 1979), é correto afirmar que",
+  "alternativas": ["os assuntos de natureza confidencial em poder dos funcionários responsáveis pela aplicação da lei devem, sem qualquer exceção, obrigatoriamente, serem mantidos confidenciais pelo prazo máximo de vinte e cinco anos.", "nenhum funcionário responsável pela aplicação da lei pode infligir, instigar ou tolerar qualquer ato de tortura, exceto quando diante de conduta terrorista.", "os funcionários responsáveis pela aplicação da lei não devem cometer quaisquer atos de corrupção. Também devem opor-se vigorosamente e combater todos esses atos.", "os funcionários responsáveis pela aplicação da lei só podem empregar a força quando restar caracterizada a legítima defesa.", "os funcionários responsáveis pela aplicação da lei devem garantir a proteção da segurança de todas as pessoas sob sua guarda e, em especial, devem adotar medidas mediatas para assegurar-lhes a proteção necessária."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "61",
+  "texto": "Trata-se de normatização das Nações Unidas para o tratamento de mulheres presas e medidas não privativas de liberdade para mulheres infratoras. Essas normas propõem olhar diferenciado para as especificidades de gênero no encarceramento feminino, tanto no campo da execução penal, quanto também na priorização de medidas não privativas de liberdade, ou seja, que evitem a entrada de mulheres no sistema carcerário. É correto afirmar que o enunciado se refere",
+  "alternativas": ["às Regras de Tóquio.", "à Declaração dos Princípios Básicos de Justiça Relativos às Vítimas da Criminalidade e de Abuso de Poder.", "à Convenção Americana dos Direitos das Mulheres.", "ao Pacto Internacional do Direito da Mulher.", "às Regras de Bangkok."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "62",
+  "texto": "Nos termos da Declaração sobre o Direito e a Responsabilidade dos Indivíduos, Grupos ou Órgãos da Sociedade de Promover e Proteger os Direitos Humanos e Liberdades Fundamentais Universalmente Reconhecidos, é correto afirmar que",
+  "alternativas": ["cada Estado deverá adoptar as medidas legislativas, administrativas e outras que se revelem necessárias para assegurar que os direitos e liberdades referidos na citada Declaração são efetivamente garantidos.", "todos têm direitos, deveres e obrigações para com a comunidade e no seio desta, fora da qual o livre e pleno desenvolvimento da respectiva personalidade não é possível, sendo autorizada a ação hostil para fazer cumprir os direitos.", "cada Estado tem o dever primordial de proteger, promover e tornar efetivos todos os direitos humanos, nomeadamente através da adoção das medidas necessárias à criação das devidas condições nas áreas social, econômica, política e outras, bem como das garantias jurídicas que se impõem para assegurar que todas as pessoas, exclusivamente em associação com outras, possam gozar na prática esses direitos e liberdades.", "a fim de promover e proteger os direitos humanos e liberdades fundamentais, todos têm o direito, em associação com outros, a nível exclusivamente internacional, de se reunir ou manifestar pacificamente.", "é permitida a participação, por ação, caso tenha o dever de atuar na violação de direitos humanos e liberdades fundamentais, sendo autorizada a ação hostil em situações excepcionais."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "A"
+}
+{
+  "numero_questao": "63",
+  "texto": "Nos termos da Declaração dos Princípios Básicos de Justiça Relativos às Vítimas da Criminalidade e de Abuso de Poder (1985), assinale a alternativa correta.",
+  "alternativas": ["Os autores de crimes ou os terceiros responsáveis pelo seu comportamento devem, obrigatoriamente, reparar de forma equitativa o prejuízo causado às vítimas, que inclui como itens obrigatórios a restituição de bens e a indenização pelo prejuízo e, facultativo, o reembolso das despesas da vitimização.", "Em todos os casos em que sejam causados graves danos ao ambiente, a restituição deve incluir, obrigatoriamente, a reabilitação do ambiente, a reposição das infraestruturas, a substituição dos equipamentos coletivos e o reembolso das despesas de reinstalação.", "Uma pessoa pode ser considerada como 'vítima', no quadro da presente Declaração, somente se o autor for identificado, preso, processado ou declarado culpado, sendo excluído do termo 'vítima' a família próxima.", "Os Governos devem reexaminar as respectivas práticas, regulamentos e leis, de modo a fazer da restituição uma sentença possível nos casos penais, para além das outras sanções penais.", "Entendem-se por 'vítimas' as pessoas que, individual ou coletivamente, tenham sofrido um prejuízo, nomeadamente um atentado à sua integridade física, excluindo-se deste conceito as perdas meramente materiais."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "D"
+}
+{
+  "numero_questao": "64",
+  "texto": "Um grupo eminente de especialistas em direitos humanos preparou um documento preliminar, desenvolveu, discutiu e refinou. Depois de uma reunião de especialistas, realizada na Universidade Gadjah Mada, entre 6 e 9 de novembro de 2006, 29 eminentes especialistas de 25 países, com experiências diversas e conhecimento relevante das questões da legislação de direitos humanos, adotaram por unanimidade regras sobre a Aplicação da Legislação Internacional de Direitos Humanos em relação à Orientação Sexual e Identidade de Gênero. O relator da reunião, professor Michael O'Flaherty, deu uma contribuição imensa. Tais regras possuem um amplo espectro de normas de direitos humanos e de sua aplicação a questões de orientação sexual e identidade de gênero. É correto afirmar que o enunciado se refere",
+  "alternativas": ["aos Princípios de Yogyakarta.", "às Regras de Bangkok.", "ao Estatuto de Roma.", "às Regras de Tóquio.", "à Convenção Americana de Direitos Humanos."],
+  "disciplina": "Direitos Humanos", 
+  "resposta_correta": "A"
+}
+{
+  "numero_questao": "65",
+  "texto": "Nos termos do Estatuto de Roma, é correto afirmar que",
+  "alternativas": ["a competência do Tribunal Penal Internacional restringir-se-á aos crimes contra a humanidade e crimes de guerra, nos termos das disposições do presente Estatuto.", "qualquer pessoa condenada pelo Tribunal Penal Internacional só poderá ser punida em conformidade com as disposições do presente Estatuto.", "a sede do Tribunal Penal Internacional será em Roma.", "é vedada a alteração da sede do Tribunal Penal Internacional para outro local.", "a competência do Tribunal Penal Internacional restringir-se-á aos crimes de guerra e ao crime de genocídio, nos termos das disposições do presente Estatuto."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "B"
+}
+{
+  "numero_questao": "66",
+  "texto": "Nos termos do Programa Estadual de Direitos Humanos (Decreto Estadual no 42.209, de 15 de setembro de 1997), é correto afirmar que",
+  "alternativas": ["fica criada, junto ao Gabinete do Secretário da Segurança Pública, Comissão Especial de acompanhamento da execução do Programa Estadual de Direitos Humanos.", "as funções de membro da Comissão Especial ou das demais Comissões serão remuneradas por meio de ajuda de custo.", "a Comissão Especial terá, entre outras, por atribuição: elaborar relatórios mensais sobre o cumprimento do programa.", "a Comissão Especial, cujos membros terão mandato de quatro anos, será composta de quatro membros de livre indicação do Governador do Estado.", "as Secretarias de Estado e a Procuradoria Geral do Estado criarão, junto aos Gabinetes de seus dirigentes, Comissões Internas de acompanhamento do Programa Estadual de Direitos Humanos."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "67",
+  "texto": "Nos termos da Lei no 13.874/2019 (Declaração de Direitos de Liberdade Econômica e garantias de livre mercado), é dever da administração pública e das demais entidades que se sujeitam a esta Lei, na aplicação da ordenação pública sobre atividades econômicas privadas",
+  "alternativas": ["proceder à aplicação de sanções com base em termos objetivos, sendo vedada a lavratura de auto de infração em termos subjetivos.", "observar o critério de dupla visita para lavratura de autos de infração decorrentes do exercício de atividade considerada de alto risco.", "dispensar tratamento justo, previsível e isonômico entre todos os agentes que atuam na administração pública.", "observar o critério de dupla visita para lavratura de autos de infração decorrentes do exercício de atividade considerada de baixo ou médio risco.", "proceder à lavratura de autos de infração com base em termos objetivos, sendo vedada a lavratura de auto de infração em termos subjetivos."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "E"
+}
+{
+  "numero_questao": "68",
+  "texto": "Nos termos do previsto na Lei Estadual no 10.948, de 05 de novembro de 2001, (Dispõe sobre as penalidades a serem aplicadas à prática de discriminação em razão de orientação sexual e dá outras providências) e do Decreto Estadual no 55.589, de 17 de março de 2010 (Regulamenta a Lei no 10.948/2001), é correto afirmar que",
+  "alternativas": ["a prática dos atos discriminatórios a que se refere esta lei será apurada em processo administrativo, que terá início mediante: reclamação do ofendido; ato ou ofício de autoridade competente; comunicado de organizações não governamentais de defesa da cidadania e direitos humanos.", "recebida a denúncia, competirá à Secretaria da Segurança Pública promover a instauração do processo administrativo devido para apuração e imposição das penalidades cabíveis.", "na hipótese de configuração, em tese, de infração penal, a comissão especial, no prazo de 5 (cinco) dias, contados de sua ciência, dará notícia do fato ao Ministério Público, instruída com as cópias dos documentos pertinentes.", "a Secretaria da Segurança Pública, para cumprir o disposto nesta lei e fiscalizar o seu cumprimento, poderá firmar convênios com os Municípios, com a Assembleia Legislativa e com as Câmaras Municipais.", "o cidadão homossexual, bissexual ou transgênero que for vítima dos atos discriminatórios deverá apresentar sua denúncia, exclusivamente, via Internet ou facsímile ao órgão estadual competente e/ou a organizações não governamentais de defesa da cidadania e direitos humanos."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "A"
+}
+{
+  "numero_questao": "69",
+  "texto": "Assinale a alternativa que corretamente contempla uma meta do Plano Estadual de Enfrentamento à Homofobia e Promoção da Cidadania LGBTQI+.",
+  "alternativas": ["Orientar a atuação das Polícias Civil e Militar para a efetiva prevenção aos delitos de intolerância homofóbica – DECRADI.", "Informatizar os bancos de dados da DECRADI.", "Publicar manual informativo para atuação dos agentes da segurança pública.", "Criar nos documentos de registros policiais espaços para declaração facultativa de orientação sexual e identidade de gênero.", "Promover ampla distribuição de material informativo para os agentes da segurança pública."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "C"
+}
+{
+  "numero_questao": "70",
+  "texto": "Nos termos da Lei Estadual no 17.431/2021, o Programa de Combate à Violência Contra Mulher será",
+  "alternativas": ["executado pela Secretaria de Segurança Pública, em cooperação com o Conselho da Condição Feminina do Estado de São Paulo.", "estruturado pelo Conselho de Direitos Humanos, com a participação dos órgãos policiais.", "estruturado pelo Conselho da Condição Feminina do Estado de São Paulo, com a participação dos órgãos policiais.", "executado pela Secretaria de Assistência Social, em cooperação com o Conselho da Condição Feminina do Estado de São Paulo.", "executado pela Secretaria da Saúde, em cooperação com o Conselho da Condição Feminina do Estado de São Paulo."],
+  "disciplina": "Direitos Humanos",
+  "resposta_correta": "E"
+}
+**QUESTÕES**
+{
+  "numero_questao": "71",
+  "texto": "Em um acampamento, as pessoas foram divididas em 3 grupos. O grupo de crianças, com 44 pessoas, o grupo de jovens, com 37 pessoas, e o grupo de adultos, com 60 pessoas. Para uma atividade todas essas pessoas serão chamadas pelo nome, mas sem uma ordem definida. O menor número de pessoas que devem ser chamadas para garantir que já foram chamadas 2 crianças é",
+  "alternativas": ["4", "99", "6", "49", "60"],
+  "disciplina": "Matemática",
+  "resposta_correta": "B"
+}
+
+{
+  "numero_questao": "72", 
+  "texto": "Considere que seja verdadeiro que: • os melhores relógios são os suíços; • o relógio de André nunca atrasa; • os relógios que não atrasam são caros. É correto deduzir logicamente, a partir dessas afirmações, que",
+  "alternativas": ["o relógio de André é caro", "os relógios suíços não atrasam", "o relógio de André é suíço", "os relógios suíços são mais caros", "o relógio de André sempre marca a hora certa"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "A"
+}
+
+{
+  "numero_questao": "73",
+  "texto": "Considere o padrão de regularidade da sequência, que representa os 7 primeiros termos. Do sétimo termo em diante, a sequência repete o padrão exibido, logo o termo dessa sequência que está na posição 3 333 é:",
+  "alternativas": ["", "", "", "", ""],
+  "disciplina": "Raciocínio Lógico", 
+  "resposta_correta": "D"
+}
+
+{
+  "numero_questao": "74",
+  "texto": "O preço à vista de um celular é de R$ 1.280,00. Caso o comprador queira pagar a prazo, em 10 prestações mensais fixas, cada prestação será de R$ 153,60. Nesse caso, o acréscimo que o comprador pagará, em relação ao preço do pagamento à vista, corresponderá a:",
+  "alternativas": ["16%", "18%", "15%", "20%", "12%"],
+  "disciplina": "Matemática",
+  "resposta_correta": "D"
+}
+
+{
+  "numero_questao": "75",
+  "texto": "Um concurso consiste de três provas de pesos diferentes, que são: matemática (peso 1), legislação (peso 3) e português (peso 4). Cada uma das três provas vale de 0 a 10 pontos, e a nota final de cada candidato é a média ponderada das três provas. Rafaela prestou esse concurso, tirou 6 na prova de português e na de matemática tirou o dobro da nota que tirou na prova de legislação. Sabendo-se que Rafaela foi aprovada nesse concurso com média ponderada igual a 5, sua nota na prova de matemática superou a nota na prova de português em",
+  "alternativas": ["0,5 ponto", "0,4 ponto", "0,2 ponto", "0,6 ponto", "0,8 ponto"],
+  "disciplina": "Matemática",
+  "resposta_correta": "D"
+}
+
+{
+  "numero_questao": "76",
+  "texto": "A figura indica o estacionamento retangular PARK, cujo comprimento PA mede a metade da largura AR. No meio desse estacionamento, há uma rotatória circular, de área 12 m², que é a única parte do interior do estacionamento que não pode ser ocupada por veículos. Se a área da parte desse estacionamento que pode ser ocupada com veículos é de 500 m2, então o perímetro do retângulo PARK, em metros, é igual a",
+  "alternativas": ["84", "102", "78", "90", "96"],
+  "disciplina": "Matemática",
+  "resposta_correta": "D"
+}
+
+{
+  "numero_questao": "77",
+  "texto": "Em um computador com Microsoft Windows 11, em sua configuração original, um usuário está com a pasta C:\\TEMP aberta no Explorador de Arquivos, também em sua configuração original, que contém apenas um arquivo, chamado Controle.txt. Esse usuário pressionou as teclas CTRL+Z e o Explorador de Arquivos passou a exibir, na mesma pasta C:\\TEMP, apenas o arquivo Projeto.txt.",
+  "alternativas": ["O arquivo Projeto.txt havia sido renomeado para Controle.txt", "O arquivo Controle.txt foi enviado para a Lixeira do Windows", "O arquivo Controle.txt foi configurado como oculto", "O arquivo Projeto.txt foi recuperado da Lixeira do Windows", "O arquivo Controle.txt foi apagado em definitivo, sem ser enviado para Lixeira do Windows"],
+  "disciplina": "Informática",
+  "resposta_correta": "A"
+}
+
+{
+  "numero_questao": "78",
+  "texto": "Em uma pasta do Microsoft Windows 11, em sua configuração original, existem 4 arquivos, chamados arquivo1.txt, arquivo2.txt, arquivo3.txt e arquivo4.txt. Um usuário selecionou o arquivo arquivo1.txt, apenas, e pressionou as teclas CTRL+C. Em seguida, selecionou o arquivo arquivo2.txt, apenas, e pressionou as teclas CTRL+C. Após, selecionou o arquivo arquivo3.txt, apenas, e pressionou as teclas CTRL+X. Finalmente, selecionou o arquivo arquivo4.txt, apenas, e pressionou as teclas CTRL+X. Assinale a alternativa que indica qual(is) arquivo(s) será(ão) colados em uma outra pasta, vazia, ao pressionar as teclas CTRL+V, considerando que o usuário tem todas as permissões no computador.",
+  "alternativas": ["arquivo1.txt, arquivo2.txt, arquivo3.txt e arquivo4.txt", "arquivo4.txt, apenas", "arquivo1.txt e arquivo2.txt, apenas", "arquivo1.txt, apenas", "arquivo3.txt e arquivo4.txt, apenas"],
+  "disciplina": "Informática",
+  "resposta_correta": "B"
+}
+
+{
+  "numero_questao": "79",
+  "texto": "Tem-se a seguinte imagem, do Microsoft Word 365, em sua configuração original, exibida parcialmente, com um texto editado. O cursor do mouse está posicionado ao final do texto. Se o usuário clicar nos ícones Negrito e Itálico, e digitar uma palavra, essa palavra estará formatada da seguinte maneira:",
+  "alternativas": ["itálico, apenas", "negrito e itálico, apenas", "sublinhado, apenas", "negrito, apenas", "sem nenhuma formatação"],
+  "disciplina": "Informática",
+  "resposta_correta": "B"
+}
+
+{
+  "numero_questao": "80",
+  "texto": "Um usuário criou uma tabela no Microsoft Word 365, em sua configuração original, com 1 linha e 2 colunas. Com o cursor do mouse na primeira célula da tabela, esse usuário digitou A e pressionou [tecla]. Depois digitou B e pressionou [tecla]. Após, digitou C e pressionou [tecla]. Finalmente, digitou D e pressionou [tecla]. Ao final, a tabela continha 3 linhas e 2 colunas.",
+  "alternativas": ["ENTER … ENTER … ENTER … ENTER", "TAB … ENTER … ENTER … ENTER", "TAB … TAB … TAB … TAB", "ENTER … TAB … ENTER … TAB", "ENTER … ENTER … ENTER … TAB"],
+  "disciplina": "Informática", 
+  "resposta_correta": "B"
+}
+
+**QUESTÕES**
+{
+  "numero_questao": "81",
+  "texto": "Tem-se o seguinte documento, editado no Microsoft Word 365, em sua configuração original: [Imagem mostrando 5 linhas com palavras e símbolos]",
+  "alternativas": ["Linha 3", "Linha 4", "Linha 2", "Linha 1", "Linha 5"],
+  "disciplina": "Informática",
+  "resposta_correta": "D"
+}
+
+{
+  "numero_questao": "82", 
+  "texto": "Tem-se a seguinte planilha, criada no Microsoft Excel 365, em sua configuração padrão: [Imagem de planilha]",
+  "alternativas": ["2", "11", "9", "12", "1"],
+  "disciplina": "Informática",
+  "resposta_correta": "A"
+}
+
+{
+  "numero_questao": "83",
+  "texto": "Considere a seguinte planilha, criada no Microsoft Excel 365, em sua configuração original, com as células A1 e B1 formatadas como data.",
+  "alternativas": ["4", "1", "20", "0", "31"],
+  "disciplina": "Informática", 
+  "resposta_correta": "A"
+}
+
+{
+  "numero_questao": "84",
+  "texto": "Tem-se a seguinte planilha, criada no Microsoft Excel 365, em sua configuração padrão, onde a célula A7 contém a função =SOMA(A1:B5), exibindo assim o valor 62:",
+  "alternativas": ["29", "62", "67", "5", "34"],
+  "disciplina": "Informática",
+  "resposta_correta": "B"
+}
+
+{
+  "numero_questao": "85",
+  "texto": "Ricardo, ao receber a mensagem, clicou no botão Responder a Todos e propôs uma alteração para que a reunião fosse atrasada em 1 hora. Todos os usuários que receberam a mensagem de Ricardo aceitaram a proposta.",
+  "alternativas": ["Fabio e João, apenas", "Fabio, apenas", "João, apenas", "Fabio e Pedro, apenas", "Pedro, apenas"],
+  "disciplina": "Informática",
+  "resposta_correta": "E"
+}
+
+{
+  "numero_questao": "86",
+  "texto": "Assinale a alternativa que indica quais usuários receberam a mensagem original de João, e em qual pasta do Outlook essa mensagem foi automaticamente gravada.",
+  "alternativas": ["Ricardo na pasta Caixa de Entrada, Fabio na pasta Rascunhos e Pedro na pasta Arquivo Morto", "Ricardo, Fabio e Pedro, todos na pasta Caixa de Entrada", "Ricardo na pasta Caixa de Entrada, Fabio na pasta Arquivo Morto e Pedro na pasta Lixo Eletrônico", "Ricardo e Fábio na pasta Caixa de Entrada, e Pedro na pasta Arquivo Morto", "Ricardo e Fabio na pasta Caixa de Entrada, e Pedro na pasta Rascunhos"],
+  "disciplina": "Informática",
+  "resposta_correta": "B"
+}
+
+{
+  "numero_questao": "87",
+  "texto": "Assinale a alternativa que indica o termo de pesquisa do buscador Google, em sua configuração padrão, que pesquisa pela palavra Tribunal, mas exclui a palavra Justiça dos resultados.",
+  "alternativas": ["\"Tribunal\" Justiça", "Tribunal &Justiça", "Tribunal [Justiça]", "Tribunal -Justiça", "Tribunal \"Justiça\""],
+  "disciplina": "Informática",
+  "resposta_correta": "D"
+}
+
+{
+  "numero_questao": "88",
+  "texto": "Na URL https://www.meusite.com.br/descontos%20especiais.html, o %20 representa",
+  "alternativas": ["um espaço em branco", "um traço", "um site não seguro", "um site marcado como Favorito", "um sinal de adição"],
+  "disciplina": "Informática",
+  "resposta_correta": "A"
+}
+
+{
+  "numero_questao": "89",
+  "texto": "Têm-se 3 arquivos em um computador com Microsoft Windows 11 (A, B e C), com o status do OneDrive exibido no Explorador de Arquivos, todos em sua configuração padrão.",
+  "alternativas": ["Contrato.docx, apenas", "Atividades.txt e Contrato.docx, apenas", "Contrato.docx e Financeiro.xlsx, apenas", "Atividades.txt, apenas", "Financeiro.xlsx, apenas"],
+  "disciplina": "Informática",
+  "resposta_correta": "D"
+}
+
+{
+  "numero_questao": "90",
+  "texto": "Ao criar uma equipe no Microsoft Teams, em sua configuração original, são criados também, por padrão, 2 recursos, que estão hachurados na imagem a seguir, ao lado do nome da equipe.",
+  "alternativas": ["Word e Excel", "Postagens e Arquivos", "Postagens e Membros", "Arquivos e Membros", "Wiki e Arquivos"],
+  "disciplina": "Informática",
+  "resposta_correta": "B"
+}
+
+{
+  "numero_questao": "91",
+  "texto": "A seguir estão desenhadas as oito primeiras figuras de uma sequência ilimitada com um padrão lógico. Na 34a figura dessa sequência, a diferença entre o número de quadriláteros que tem as diagonais traçadas e o número de quadriláteros sombreados é igual a",
+  "alternativas": ["9", "13", "10", "12", "11"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "E"
+}
+
+{
+  "numero_questao": "92",
+  "texto": "Em relação a um grupo de pessoas e quanto ao domínio de quatro habilidades: P, Q, R e T, sabe-se que: [Seguem condições I, II e III]",
+  "alternativas": ["[Diagrama A]", "[Diagrama B]", "[Diagrama C]", "[Diagrama D]", "[Diagrama E]"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "C"
+}
+
+{
+  "numero_questao": "93",
+  "texto": "Acerca de cinco servidores de um tribunal foram feitas quatro afirmações. A terceira afirmação é FALSA e as demais são VERDADEIRAS.",
+  "alternativas": ["Gerusa é escrevente", "Janice não é desembargadora", "Ivo é promotor", "Humberto não é juiz", "Fabiana não é técnica judiciária"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "A"
+}
+
+{
+  "numero_questao": "94",
+  "texto": "A sequência a seguir é ilimitada e foi criada com um padrão lógico: 20, 5, 4, 40, 10, 8, 60, 15, 12, 80, 20, 16, ..., 180, _K_, _L_, ..., 260, _M_, _N_, ...",
+  "alternativas": ["192", "202", "186", "198", "208"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "D"
+}
+
+{
+  "numero_questao": "95",
+  "texto": "Em uma reunião, com seus colaboradores, o chefe do atendimento diz: \"Se o atendimento é bom, então o cliente fica satisfeito e volta\". A alternativa que contém uma afirmação equivalente à afirmação do chefe é:",
+  "alternativas": ["Se o cliente não fica satisfeito ou volta, então o atendimento não é bom", "O cliente fica satisfeito ou volta e o atendimento é bom", "Se o cliente fica satisfeito e volta, então o atendimento é bom", "O atendimento é bom e o cliente fica satisfeito e volta", "Se o cliente não fica satisfeito ou não volta, então o atendimento não é bom"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "E"
+}
+
+{
+  "numero_questao": "96",
+  "texto": "Três conjuntos: I, II e III formam um diagrama lógico com a seguinte disposição: [Descrição do diagrama e condições]",
+  "alternativas": ["2 elementos", "3 elementos", "4 elementos", "1 elemento", "5 elementos"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "C"
+}
+
+{
+  "numero_questao": "97",
+  "texto": "Mara, Roberto, Sônia e Tadeu são professores de disciplinas diferentes. As disciplinas são: Física, Matemática, Biologia e Química, não necessariamente nessa ordem.",
+  "alternativas": ["Se Tadeu é professor de Matemática, então Mara é professora de Química", "Tadeu leciona em São Paulo ou quem leciona em Bauru leciona Química", "Roberto leciona em São Paulo e Mara não leciona em Santos", "Ou o professor de Física leciona em São Paulo ou Sônia é professora de Química", "Roberto não é professor de Física ou quem leciona Biologia o faz em Bauru"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "D"
+}
+
+{
+  "numero_questao": "98",
+  "texto": "A negação lógica da afirmação: 'Todos amigos são leais ou não adianta acreditar nas pessoas', está contida na seguinte alternativa:",
+  "alternativas": ["Há algum amigo que não é leal e adianta acreditar nas pessoas", "Adianta acreditar nas pessoas ou há algum amigo que é leal", "Se adianta acreditar nas pessoas, então todos os amigos não são leais", "Nenhum amigo é leal e adianta acreditar nas pessoas", "Se todos os amigos são leais, então adianta acreditar nas pessoas"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "A"
+}
+
+{
+  "numero_questao": "99",
+  "texto": "Para descobrir se André é ou não é arquiteto, se Célia é ou não é cineasta, se Daniel é ou não é dançarino, se Elisa é ou não é escultora, se Luisa é ou não é literata, se Paulo é ou não é pintor, afirmou-se o que segue: [Seguem condições I a V]",
+  "alternativas": ["Paulo não é pintor ou Daniel não é dançarino", "Se Luisa é literata, então André é arquiteto", "Luisa não é literata e Paulo é pintor", "Se Paulo não é pintor, então André é arquiteto", "Daniel não é dançarino e Luisa é literata"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "C"
+}
+
+{
+  "numero_questao": "100",
+  "texto": "A seguir estão cinco pares de afirmações. Analise cada um desses pares de afirmações sob os seguintes aspectos: se formam um par de afirmações equivalentes ou se formam um par de afirmações que são negações lógicas entre si.",
+  "alternativas": ["3", "4", "1", "2", "5"],
+  "disciplina": "Raciocínio Lógico",
+  "resposta_correta": "A"
+}
